@@ -1,0 +1,134 @@
+{
+    "cinemas": [
+        {
+            "cinema_id": 8926,
+            "cinema_name": "Vue Cinemas - Dagenham",
+            "address": "Dagenham Leisure Park",
+            "city": "Dagenham",
+            "county": "Greater London",
+            "postcode": "RM9 6UQ",
+            "lat": 51.532398,
+            "lng": 0.13494,
+            "distance": 1.5346436514578,
+            "logo_url": "https://d2z9fe5yu2p0av.cloudfront.net/chainlogos/uk/UK-712-sq.jpg"
+        },
+        {
+            "cinema_id": 8507,
+            "cinema_name": "Showcase Newham",
+            "address": "Jenkins Lane",
+            "city": "Barking",
+            "county": "Greater London",
+            "postcode": "IG11 0AD",
+            "lat": 51.52636,
+            "lng": 0.08079,
+            "distance": 2.3912532294299,
+            "logo_url": "https://d2z9fe5yu2p0av.cloudfront.net/chainlogos/uk/UK-577-sq.jpg"
+        },
+        {
+            "cinema_id": 8964,
+            "cinema_name": "Cineworld Cinema - Bexleyheath",
+            "address": "28-70 Broadway",
+            "city": "Bexleyheath",
+            "county": "Kent",
+            "postcode": "DA6 7LL",
+            "lat": 51.456081,
+            "lng": 0.14975,
+            "distance": 3.8464576159988,
+            "logo_url": "https://d2z9fe5yu2p0av.cloudfront.net/chainlogos/uk/UK-868-sq.jpg"
+        },
+        {
+            "cinema_id": 42847,
+            "cinema_name": "Bussey Building - Rooftop Cinema Club",
+            "address": "133 Rye Lane - Peckham",
+            "city": "London",
+            "county": "",
+            "postcode": "SE15 4ST",
+            "lat": 51.469879,
+            "lng": 0.0672,
+            "distance": 3.8943968896119,
+            "logo_url": "https://d2z9fe5yu2p0av.cloudfront.net/chainlogos/uk/UK-1808-sq.jpg"
+        },
+        {
+            "cinema_id": 8977,
+            "cinema_name": "Cineworld Cinema - Ilford",
+            "address": "I-Scene",
+            "city": "Ilford",
+            "county": "Greater London",
+            "postcode": "IG1 1BP",
+            "lat": 51.558048,
+            "lng": 0.07464,
+            "distance": 4.0660059617298,
+            "logo_url": "https://d2z9fe5yu2p0av.cloudfront.net/chainlogos/uk/UK-868-sq.jpg"
+        },
+        {
+            "cinema_id": 9354,
+            "cinema_name": "Vue Cinemas - Romford",
+            "address": "1-15 The Brewery",
+            "city": "Romford",
+            "county": "Greater London",
+            "postcode": "RM1 1AU",
+            "lat": 51.57513,
+            "lng": 0.17881,
+            "distance": 4.9383303334383,
+            "logo_url": "https://d2z9fe5yu2p0av.cloudfront.net/chainlogos/uk/UK-712-sq.jpg"
+        },
+        {
+            "cinema_id": 9533,
+            "cinema_name": "Boleyn Cinema",
+            "address": "5 Barking Road",
+            "city": "London",
+            "county": "Greater London",
+            "postcode": "E6 1PW",
+            "lat": 51.516312,
+            "lng": 0.00962,
+            "distance": 5.1982521294394,
+            "logo_url": "https://d2z9fe5yu2p0av.cloudfront.net/chainlogos/uk/UK-0-sq.jpg"
+        },
+        {
+            "cinema_id": 8880,
+            "cinema_name": "ODEON Greenwich",
+            "address": "Bugsby Way",
+            "city": "London",
+            "county": "Greater London",
+            "postcode": "SE10 0QJ",
+            "lat": 51.49025,
+            "lng": 0.01261,
+            "distance": 5.2430814293721,
+            "logo_url": "https://d2z9fe5yu2p0av.cloudfront.net/chainlogos/uk/UK-614-sq.jpg"
+        },
+        {
+            "cinema_id": 29889,
+            "cinema_name": "Premiere Cinemas - Romford",
+            "address": "Mercury Mall - Mercury Gardens",
+            "city": "Romford",
+            "county": "Greater London",
+            "postcode": "RM1 3EE",
+            "lat": 51.579231,
+            "lng": 0.18508,
+            "distance": 5.3105491138306,
+            "logo_url": "https://d2z9fe5yu2p0av.cloudfront.net/chainlogos/uk/UK-0-sq.jpg"
+        },
+        {
+            "cinema_id": 10636,
+            "cinema_name": "Cineworld Cinema - Greenwich",
+            "address": "The O2",
+            "city": "London",
+            "county": "Greater London",
+            "postcode": "SE10 0DX",
+            "lat": 51.501751,
+            "lng": 0.00461,
+            "distance": 5.43134060748,
+            "logo_url": "https://d2z9fe5yu2p0av.cloudfront.net/chainlogos/uk/UK-868-sq.jpg"
+        }
+    ],
+    "count": 10,
+    "status": {
+        "state": "OK",
+        "code": 1,
+        "method": "cinemasNearby",
+        "message": null,
+        "request_method": "GET",
+        "version": "MONAv102",
+        "auth_type": "d"
+    }
+}

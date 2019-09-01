@@ -1,0 +1,437 @@
+{
+    "film_id": 251736,
+    "film_name": "I Feel Pretty",
+    "version_type": "Standard",
+    "images": {
+        "poster": {
+            "1": {
+                "image_orientation": "portrait",
+                "region": "US",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/251736/251736l1.jpg",
+                    "width": 333,
+                    "height": 500
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/251736/251736h1.jpg",
+                    "width": 200,
+                    "height": 300
+                }
+            }
+        },
+        "still": {
+            "2": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/251736/251736l2.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/251736/251736h2.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            },
+            "3": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/251736/251736l3.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/251736/251736h3.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            },
+            "4": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/251736/251736l4.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/251736/251736h4.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            },
+            "5": {
+                "image_orientation": "landscape",
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/251736/251736h5.jpg",
+                    "width": 300,
+                    "height": 200
+                },
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/251736/251736l5.jpg",
+                    "width": 500,
+                    "height": 333
+                }
+            },
+            "6": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/251736/251736l6.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/251736/251736h6.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            },
+            "7": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/251736/251736l7.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/251736/251736h7.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            },
+            "8": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/251736/251736l8.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/251736/251736h8.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            },
+            "9": {
+                "image_orientation": "landscape",
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/251736/251736h9.jpg",
+                    "width": 300,
+                    "height": 200
+                },
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/251736/251736l9.jpg",
+                    "width": 500,
+                    "height": 333
+                }
+            },
+            "a": {
+                "image_orientation": "landscape",
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/251736/251736ha.jpg",
+                    "width": 300,
+                    "height": 200
+                },
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/251736/251736la.jpg",
+                    "width": 500,
+                    "height": 333
+                }
+            },
+            "b": {
+                "image_orientation": "landscape",
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/251736/251736hb.jpg",
+                    "width": 300,
+                    "height": 200
+                },
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/251736/251736lb.jpg",
+                    "width": 500,
+                    "height": 333
+                }
+            },
+            "c": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/251736/251736lc.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/251736/251736hc.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            },
+            "d": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/251736/251736ld.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/251736/251736hd.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            },
+            "e": {
+                "image_orientation": "landscape",
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/251736/251736he.jpg",
+                    "width": 300,
+                    "height": 200
+                },
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/251736/251736le.jpg",
+                    "width": 500,
+                    "height": 333
+                }
+            },
+            "f": {
+                "image_orientation": "landscape",
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/251736/251736hf.jpg",
+                    "width": 300,
+                    "height": 200
+                },
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/251736/251736lf.jpg",
+                    "width": 500,
+                    "height": 333
+                }
+            },
+            "g": {
+                "image_orientation": "landscape",
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/251736/251736hg.jpg",
+                    "width": 300,
+                    "height": 200
+                },
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/251736/251736lg.jpg",
+                    "width": 500,
+                    "height": 333
+                }
+            },
+            "h": {
+                "image_orientation": "landscape",
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/251736/251736hh.jpg",
+                    "width": 300,
+                    "height": 200
+                },
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/251736/251736lh.jpg",
+                    "width": 500,
+                    "height": 333
+                }
+            },
+            "i": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/251736/251736li.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/251736/251736hi.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            },
+            "j": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/251736/251736lj.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/251736/251736hj.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            },
+            "k": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/251736/251736lk.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/251736/251736hk.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            }
+        }
+    },
+    "synopsis_long": "In I FEEL PRETTY a woman who struggles with feelings of deep insecurity and low self-esteem, that hold her back everyday, wakes from a brutal fall in an exercise class believing she is suddenly a supermodel. With this newfound confidence she is empowered to live her life fearlessly and flawlessly, but what will happen when she realizes her appearance never changed?",
+    "distributor_id": 1459,
+    "distributor": "STX Entertainment",
+    "release_date": "2018-05-04",
+    "age_rating": "12A ",
+    "age_advisory": "moderate sex, sex references, language",
+    "duration_mins": 110,
+    "review_stars": 1.5,
+    "review_txt": "Amy Schumer is a little like Woody Allen in one way - both actors use cinema as therapy, working through various personal neuroses in arguably the most public and visible manner possible. For Schumer, it's about body image and personal empowerment. Her three starring vehicles to date have all dealt with the subject in one manner or another: the side-splitting and incisive Trainwreck, the uneven Snatched, and the rather horrible I Feel Pretty. Calling a spade a spade, I'm not compelled to give a bad movie a passing grade just because it addresses an important and sensitive issue in a manner that will appeal to a segment of viewers. In fact, the way in which I Feel Pretty presents its message is one of the film's biggest problems. If there's something less subtle than a sledgehammer, it applies here. \n\nSchumer is an appealing actress with a lot of charisma and energy, but none of that is enough to save this movie. Although she can't be held entirely blameless, the lion's share of the culpability goes to the writing/directing pair of Abby Kohn & Marc Silverstein. Although making their co-directorial debut behind the camera, a look at their screenplay filmography is sufficient to create a sense of trepidation: Never Been Kissed, He's Just Not That Into You, Valentine's Day, The Vow, How to Be Single. Yikes!!! Sad to say, while I Feel Pretty isn't the worst of the bunch, it fits right in there. This isn't a case of the duo bringing Schumer on board and achieving great things. They continue to wallow in sit-com blandness.\n\nDone with an edgy sense of self-awareness, I could see where I Feel Pretty might work as a takedown of the body image-conscious fashion industry (although it wouldn't be the first film to do that). It could even work as a parody of message-oriented movies, although its unmistakable sincerity nixes that possibility. The central conceit - a Plain Jane who, as a result of an accident, suddenly perceives herself as beautiful and, flush with self-confidence, takes chances she never previously would have - is applied in arguably the most saccharine manner imaginable. \n\nI Feel Pretty's first stumbling block is the accident that causes Renee Bennett (Schumer) to experience an awakening (likely the result of a traumatic brain injury). She hits her head and is changed. Then, later in the movie, she hits her head again and reverts to her previous state. Sound familiar? Perhaps that's because it was a major plot device in dozens of bad TV sitcom episodes and worse TV movies back in the '70s and '80s. To dredge this up and treat it seriously would be like making a non-comedic version of The Brady Bunch today. It can't be done. Somehow, however, Kohn & Silverstein expect us to swallow it. \n\nThen there's the film's strident messaging about the importance of having a positive body image (even if you don't match society's \"norms\") and how confidence trumps appearance when it comes to perception. To be sure, this is worthy material for any film. Unfortunately, I Feel Pretty hammers it home inelegantly, going so far as to have a conversation between Schumer and Emily Ratajkowski in which the former makes the observation that physical attractiveness isn't a barrier to insecurity. What a discovery! The dialogue is ham-handed but no less painful than a later Schumer monologue in which she warbles about the importance of believing in oneself despite any apparent impediments. Again, it's not the message, it's the way it's delivered.\n\nAnother notable flaw in I Feel Pretty's DNA is the PG-13 rating. To emasculate Schumer, a comedienne known for her raunchy stand-up routines and off-color humor, by forcing her to stay within the parameters deemed \"safe\" for young teenagers, the film sets limits on its own comedic potential. There are several scenes that could have been hilarious but, under the child-safe scrutiny of the MPAA, they deliver at best a tease and a chuckle.\n\nFor those looking for a silver lining, the romantic comedy subplot between Schumer and actor Rory Scovel is sweet and endearing. It makes one wonder whether the movie might have worked better if the focus had been on this relationship rather than Renee's uncertain interaction with cosmetics CEO Lily LeClaire (Lauren Hutton) and her two silver spoon-fed grandchildren, Avery (Michelle Williams) and Grant (Tom Hopper). \n\nFor the final word, I'll harken back to Schumer's debut as a leading lady and label I Feel Pretty as a trainwreck.\n\n© 2018 James Berardinelli",
+    "trailers": {
+        "film_id": 251736,
+        "film_name": "I Feel Pretty",
+        "trailers": {
+            "high": [
+                {
+                    "film_trailer": "https://dzm1iom8kpoas.cloudfront.net/251736_high.mp4",
+                    "trailer_image": "https://d3ltpb4h29tx4j.cloudfront.net/251736/251736h3.jpg",
+                    "version": 1,
+                    "quality": "high",
+                    "region": "US"
+                }
+            ],
+            "med": [
+                {
+                    "film_trailer": "https://dzm1iom8kpoas.cloudfront.net/251736_med.mp4",
+                    "trailer_image": "https://d3ltpb4h29tx4j.cloudfront.net/251736/251736h3.jpg",
+                    "version": 1,
+                    "quality": "med",
+                    "region": "US"
+                }
+            ]
+        }
+    },
+    "genres": [
+        {
+            "genre_id": 3,
+            "genre_name": "Comedy"
+        }
+    ],
+    "cast": [
+        {
+            "cast_id": 2261,
+            "cast_name": "Amy Schumer"
+        },
+        {
+            "cast_id": 2007,
+            "cast_name": "Michelle Williams"
+        },
+        {
+            "cast_id": 32260,
+            "cast_name": "Rory Scovel"
+        },
+        {
+            "cast_id": 23711,
+            "cast_name": "Emily Ratajkowski"
+        },
+        {
+            "cast_id": 18323,
+            "cast_name": "Aidy Bryant"
+        },
+        {
+            "cast_id": 32261,
+            "cast_name": "Busy Phillips"
+        },
+        {
+            "cast_id": 14445,
+            "cast_name": "Tom Hopper"
+        },
+        {
+            "cast_id": 32262,
+            "cast_name": "Naomi Campbell"
+        },
+        {
+            "cast_id": 32263,
+            "cast_name": "Lauren Hutton"
+        }
+    ],
+    "directors": [
+        {
+            "director_id": 49639,
+            "director_name": "Abby Kohn"
+        },
+        {
+            "director_id": 49640,
+            "director_name": "Marc Silverstein"
+        }
+    ],
+    "producers": [
+        {
+            "producer_id": 4959,
+            "producer_name": "McG"
+        },
+        {
+            "producer_id": 6183,
+            "producer_name": "Mary Viola"
+        },
+        {
+            "producer_id": 6027,
+            "producer_name": "Nicolas Chartier"
+        },
+        {
+            "producer_id": 10379,
+            "producer_name": "Amy Schumer"
+        },
+        {
+            "producer_id": 10380,
+            "producer_name": "Alissa Phillips"
+        },
+        {
+            "producer_id": 9128,
+            "producer_name": "Dominic Rustam"
+        }
+    ],
+    "writers": [
+        {
+            "writer_id": 5723,
+            "writer_name": "Abby Kohn"
+        },
+        {
+            "writer_id": 5724,
+            "writer_name": "Marc Silverstein"
+        }
+    ],
+    "show_dates": [
+        {
+            "date": "2018-06-14"
+        },
+        {
+            "date": "2018-06-15"
+        },
+        {
+            "date": "2018-06-16"
+        },
+        {
+            "date": "2018-06-17"
+        },
+        {
+            "date": "2018-06-18"
+        },
+        {
+            "date": "2018-06-19"
+        },
+        {
+            "date": "2018-06-20"
+        },
+        {
+            "date": "2018-06-21"
+        },
+        {
+            "date": "2018-06-22"
+        },
+        {
+            "date": "2018-06-23"
+        }
+    ],
+    "alternate_versions": [],
+    "status": {
+        "state": "OK",
+        "code": 1,
+        "method": "filmDetails",
+        "message": null,
+        "request_method": "GET",
+        "version": "MONAv102",
+        "auth_type": "d"
+    }
+}

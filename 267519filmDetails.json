@@ -1,0 +1,116 @@
+{
+    "film_id": 267519,
+    "film_name": "McQueen",
+    "version_type": "Standard",
+    "images": {
+        "poster": {
+            "1": {
+                "image_orientation": "portrait",
+                "region": "US",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/267519/267519l1.jpg",
+                    "width": 333,
+                    "height": 500
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/267519/267519h1.jpg",
+                    "width": 200,
+                    "height": 300
+                }
+            }
+        }
+    },
+    "synopsis_long": "A personal look at the extraordinary life, career and artistry of Alexander McQueen. Through exclusive interviews with his closest friends and family, recovered archives, exquisite visuals and music, McQueen is an authentic celebration and thrilling portrait of an inspired yet tortured fashion visionary.",
+    "distributor_id": 280,
+    "distributor": "Lionsgate",
+    "release_date": "2018-06-08",
+    "age_rating": "15 ",
+    "age_advisory": "very strong language, sexualised nudity, references to sexual violence",
+    "duration_mins": 111,
+    "review_stars": 0,
+    "review_txt": "",
+    "trailers": {
+        "film_id": 267519,
+        "film_name": "McQueen",
+        "trailers": []
+    },
+    "genres": [
+        {
+            "genre_id": 4,
+            "genre_name": "Documentary"
+        }
+    ],
+    "cast": [
+        {
+            "cast_id": 34491,
+            "cast_name": "Alexander McQueen"
+        }
+    ],
+    "directors": [
+        {
+            "director_id": 48276,
+            "director_name": "Ian Bonhôte"
+        }
+    ],
+    "producers": [],
+    "writers": [
+        {
+            "writer_id": 9549,
+            "writer_name": "Peter Ettedgui"
+        }
+    ],
+    "show_dates": [
+        {
+            "date": "2018-06-14"
+        },
+        {
+            "date": "2018-06-15"
+        },
+        {
+            "date": "2018-06-16"
+        },
+        {
+            "date": "2018-06-17"
+        },
+        {
+            "date": "2018-06-18"
+        },
+        {
+            "date": "2018-06-19"
+        },
+        {
+            "date": "2018-06-20"
+        },
+        {
+            "date": "2018-06-21"
+        },
+        {
+            "date": "2018-06-22"
+        },
+        {
+            "date": "2018-06-23"
+        },
+        {
+            "date": "2018-06-24"
+        },
+        {
+            "date": "2018-06-25"
+        },
+        {
+            "date": "2018-07-14"
+        },
+        {
+            "date": "2018-07-18"
+        }
+    ],
+    "alternate_versions": [],
+    "status": {
+        "state": "OK",
+        "code": 1,
+        "method": "filmDetails",
+        "message": null,
+        "request_method": "GET",
+        "version": "MONAv102",
+        "auth_type": "d"
+    }
+}

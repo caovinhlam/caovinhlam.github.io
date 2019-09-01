@@ -1,0 +1,464 @@
+{
+    "film_id": 265510,
+    "film_name": "Book Club",
+    "version_type": "Standard",
+    "images": {
+        "poster": {
+            "1": {
+                "image_orientation": "portrait",
+                "region": "US",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/265510/265510l1.jpg",
+                    "width": 333,
+                    "height": 500
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/265510/265510h1.jpg",
+                    "width": 200,
+                    "height": 300
+                }
+            }
+        },
+        "still": {
+            "2": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/265510/265510l2.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/265510/265510h2.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            },
+            "3": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/265510/265510l3.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/265510/265510h3.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            },
+            "4": {
+                "image_orientation": "landscape",
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/265510/265510h4.jpg",
+                    "width": 300,
+                    "height": 200
+                },
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/265510/265510l4.jpg",
+                    "width": 500,
+                    "height": 333
+                }
+            },
+            "5": {
+                "image_orientation": "landscape",
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/265510/265510h5.jpg",
+                    "width": 300,
+                    "height": 200
+                },
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/265510/265510l5.jpg",
+                    "width": 500,
+                    "height": 333
+                }
+            },
+            "6": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/265510/265510l6.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/265510/265510h6.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            },
+            "7": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/265510/265510l7.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/265510/265510h7.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            },
+            "8": {
+                "image_orientation": "landscape",
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/265510/265510h8.jpg",
+                    "width": 300,
+                    "height": 200
+                },
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/265510/265510l8.jpg",
+                    "width": 500,
+                    "height": 333
+                }
+            },
+            "9": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/265510/265510l9.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/265510/265510h9.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            },
+            "a": {
+                "image_orientation": "landscape",
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/265510/265510ha.jpg",
+                    "width": 300,
+                    "height": 200
+                },
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/265510/265510la.jpg",
+                    "width": 500,
+                    "height": 333
+                }
+            },
+            "b": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/265510/265510lb.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/265510/265510hb.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            },
+            "c": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/265510/265510lc.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/265510/265510hc.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            },
+            "d": {
+                "image_orientation": "landscape",
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/265510/265510hd.jpg",
+                    "width": 300,
+                    "height": 200
+                },
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/265510/265510ld.jpg",
+                    "width": 500,
+                    "height": 333
+                }
+            },
+            "e": {
+                "image_orientation": "landscape",
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/265510/265510he.jpg",
+                    "width": 300,
+                    "height": 200
+                },
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/265510/265510le.jpg",
+                    "width": 500,
+                    "height": 333
+                }
+            },
+            "f": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/265510/265510lf.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/265510/265510hf.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            },
+            "g": {
+                "image_orientation": "landscape",
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/265510/265510hg.jpg",
+                    "width": 300,
+                    "height": 200
+                },
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/265510/265510lg.jpg",
+                    "width": 500,
+                    "height": 333
+                }
+            },
+            "h": {
+                "image_orientation": "landscape",
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/265510/265510hh.jpg",
+                    "width": 300,
+                    "height": 200
+                },
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/265510/265510lh.jpg",
+                    "width": 500,
+                    "height": 333
+                }
+            },
+            "i": {
+                "image_orientation": "landscape",
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/265510/265510hi.jpg",
+                    "width": 300,
+                    "height": 200
+                },
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/265510/265510li.jpg",
+                    "width": 500,
+                    "height": 333
+                }
+            },
+            "j": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/265510/265510lj.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/265510/265510hj.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            },
+            "k": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/265510/265510lk.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/265510/265510hk.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            }
+        }
+    },
+    "synopsis_long": "Diane (Diane Keaton) is recently widowed after 40 years of marriage. Vivian (Jane Fonda) enjoys her men with no strings attached. Sharon (Candice Bergen) is still working through a decades-old divorce. Carol's (Mary Steenburgen) marriage is in a slump after 35 years. \n\nFour lifelong friends' lives are turned upside down to hilarious ends when their book club tackles the infamous Fifty Shades of Grey. From discovering new romance to rekindling old flames, they inspire each other to make their next chapter the best chapter.",
+    "distributor_id": 87,
+    "distributor": "Paramount UK",
+    "release_date": "2018-06-01",
+    "age_rating": "18 ",
+    "age_advisory": "moderate sex references, innuendo, infrequent strong language",
+    "duration_mins": 104,
+    "review_stars": 3,
+    "review_txt": "A romantic comedy - any romantic comedy regardless of the ages, genders, or races of the participants - has two primary goals: generate laughter and give viewers at least a moment of smile-inducing giddiness. It's all about being uplifting and delivering on the fantasy of everlasting love. (That's why romantic comedies end with kisses and weddings and don't venture into the what-happens-next territory.) Book Club, a conventional rom-com in every way (except perhaps one), achieves those goals. Although there are times when the dialogue is downright insipid, it contains enough wit to provoke frequent chuckles (and maybe even a few guffaws - Andy Garcia has a laugh-out-loud one-liner) and the movie quadrupoles down on the romance element. It also provides evidence that it is indeed possible for Fifty Shades of Grey to inspire a watchable motion picture. \n\nOnce the purview of teens and young adults, the rom-com has aged along with those who sighed longingly at the lighthearted love stories of the '80s and '90s. Rom-coms circa 2018 haven't died off, they have just been reworked for AARP card holders. Thus far this year, there have been two of these, with Book Club following Finding Your Feet. While it's doubtful that anyone under 40 will be attracted to these movies, they aren't angling for that demographic. Unapologetically old fashioned and even a little corny, these tales of bed-hopping geriatrics and late-in-life lovers argue that the genre doesn't demand youth and \"perfect\" sex appeal to work. \n\nAge matters in Book Club. In fact, it's the film's prime selling point. Jane Fonda is 80. Diane Keaton and Candice Bergen are 72. Mary Steenburgen, the baby of the bunch, is a mere 65. On the male side (although the men are little more than love interests and supporting characters), Andy Garcia is 62, Don Johnson is 68, Craig T. Nelson is 74, and Richard Dreyfuss is 70. (Yes, there's some cougar-ish behavior going on but once you're past 60, does anyone notice?) \n\nFonda's Type A Vivian is paired with Johnson's boyish Arthur. The pair met 40 years ago, fell in love, then went their separate ways so Vivian could amass a fortune and become a one-night stand kind of woman. Now, of all the gin joints in all the towns in all the world, he walks back into hers. Steenburgen's Carol is married to Craig T. Nelson's Bruce. She wants sex but he doesn't. Viagra and dancing lessons don't help. What's a woman to do? Candice Bergen's Sharon, a judge, hasn't had sex in 18 years and decides to try on-line dating. Her first hook-up is with Richard Dreyfuss' George and, while it may not be love at first sight, Sharon soon remembers what she's been missing. Finally, there's Diane Keaton's Diane, a recently-widowed woman with helicopter children (one of whom is played by Alicia Silverstone). She meets cute with Andy Garcia's Mitchell, an airline pilot, and soon finds herself flying high while fearing a crash.\n\nThe thread that binds these four women is their book club. Every month, they pick a book to read and, at their next meeting, they discuss thoughts and revelations. This time, the selection is Fifty Shades of Grey and, although the movie misses more than a few easy lay-ups when it comes to pointed satire, it creates an interesting \"meta\" situation by featuring Don Johnson (whose daughter, Dakota, played the often-naked female lead in the movie adaptations of Fifty Shades of Grey and its two sequels). Thankfully for those unconvinced that E.L. James is deserving of the Pulitzer, an appreciation of the novels isn't necessary to enjoy Book Club. They're a starting point not a major plot driver.\n\nLike most romantic comedies, the movie works in large part because of the appeal of the actors and the chemistry among them. Keaton and Fonda are the female standouts - the latter loud and brassy and the formerly quietly stylish and charismatic. (Nothing surprising there.) The unquestioned male champion in this category is (surprisingly?) Andy Garcia, who delivers every line with a twinkle in his eyes and a smile on his lips. This makes the Keaton/Garcia thread the film's top draw. Of the other three stories, the only one that sputters is Candice Bergen's. The Steenburgen/Nelson coupling is the least conventionally romantic but in many ways is the most \"real\" and it has the best payoff.\n\nLittle more needs to be said than that Book Club is a romantic comedy with old people. However, just because it stars actors whose salad days were in the '60s, '70s, and '80s, that doesn't mean its charm can't be enjoyed by younger viewers. It offers the same appeal presented by youth-oriented romantic comedies. It won't challenge Deadpool 2 or Avengers: Infinity War for a position at the top of the box office charts but its ability to tickle the funny bone and warm the heart makes it a worthy consideration for consumption by those weary of the early summer's spectacle overdrive.\n\n© 2018 James Berardinelli",
+    "trailers": {
+        "film_id": 265510,
+        "film_name": "Book Club",
+        "trailers": {
+            "high": [
+                {
+                    "film_trailer": "https://dzm1iom8kpoas.cloudfront.net/265510_high_V2.mp4",
+                    "trailer_image": "https://d3ltpb4h29tx4j.cloudfront.net/265510/265510h4.jpg",
+                    "version": 2,
+                    "quality": "high",
+                    "region": "US"
+                },
+                {
+                    "film_trailer": "https://dzm1iom8kpoas.cloudfront.net/265510_high.mp4",
+                    "trailer_image": "https://d3ltpb4h29tx4j.cloudfront.net/265510/265510h3.jpg",
+                    "version": 1,
+                    "quality": "high",
+                    "region": "US"
+                }
+            ],
+            "med": [
+                {
+                    "film_trailer": "https://dzm1iom8kpoas.cloudfront.net/265510_med_V2.mp4",
+                    "trailer_image": "https://d3ltpb4h29tx4j.cloudfront.net/265510/265510h4.jpg",
+                    "version": 2,
+                    "quality": "med",
+                    "region": "US"
+                },
+                {
+                    "film_trailer": "https://dzm1iom8kpoas.cloudfront.net/265510_med.mp4",
+                    "trailer_image": "https://d3ltpb4h29tx4j.cloudfront.net/265510/265510h3.jpg",
+                    "version": 1,
+                    "quality": "med",
+                    "region": "US"
+                }
+            ]
+        }
+    },
+    "genres": [
+        {
+            "genre_id": 3,
+            "genre_name": "Comedy"
+        }
+    ],
+    "cast": [
+        {
+            "cast_id": 1143,
+            "cast_name": "Diane Keaton"
+        },
+        {
+            "cast_id": 1109,
+            "cast_name": "Jane Fonda"
+        },
+        {
+            "cast_id": 2916,
+            "cast_name": "Candice Bergen"
+        },
+        {
+            "cast_id": 3290,
+            "cast_name": "Mary Steenburgen"
+        },
+        {
+            "cast_id": 6042,
+            "cast_name": "Craig T Nelson"
+        },
+        {
+            "cast_id": 1220,
+            "cast_name": "Andy Garcia"
+        },
+        {
+            "cast_id": 11102,
+            "cast_name": "Don Johnson"
+        },
+        {
+            "cast_id": 1728,
+            "cast_name": "Richard Dreyfuss"
+        },
+        {
+            "cast_id": 4295,
+            "cast_name": "Alicia Silverstone"
+        },
+        {
+            "cast_id": 32206,
+            "cast_name": "Tommy Dewey"
+        }
+    ],
+    "directors": [
+        {
+            "director_id": 51058,
+            "director_name": "Bill Holderman"
+        }
+    ],
+    "producers": [
+        {
+            "producer_id": 6588,
+            "producer_name": "Bill Holderman"
+        }
+    ],
+    "writers": [
+        {
+            "writer_id": 12199,
+            "writer_name": "Bill Holderman"
+        },
+        {
+            "writer_id": 20510,
+            "writer_name": "Erin Simms"
+        }
+    ],
+    "show_dates": [
+        {
+            "date": "2018-06-14"
+        },
+        {
+            "date": "2018-06-15"
+        },
+        {
+            "date": "2018-06-16"
+        },
+        {
+            "date": "2018-06-17"
+        },
+        {
+            "date": "2018-06-18"
+        },
+        {
+            "date": "2018-06-19"
+        },
+        {
+            "date": "2018-06-20"
+        },
+        {
+            "date": "2018-06-21"
+        },
+        {
+            "date": "2018-06-22"
+        },
+        {
+            "date": "2018-06-25"
+        },
+        {
+            "date": "2018-06-26"
+        },
+        {
+            "date": "2018-06-27"
+        },
+        {
+            "date": "2018-06-28"
+        },
+        {
+            "date": "2018-06-29"
+        },
+        {
+            "date": "2018-06-30"
+        },
+        {
+            "date": "2018-07-02"
+        },
+        {
+            "date": "2018-07-03"
+        },
+        {
+            "date": "2018-07-04"
+        },
+        {
+            "date": "2018-07-05"
+        },
+        {
+            "date": "2018-07-22"
+        },
+        {
+            "date": "2018-07-24"
+        }
+    ],
+    "alternate_versions": [],
+    "status": {
+        "state": "OK",
+        "code": 1,
+        "method": "filmDetails",
+        "message": null,
+        "request_method": "GET",
+        "version": "MONAv102",
+        "auth_type": "d"
+    }
+}

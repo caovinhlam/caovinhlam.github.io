@@ -1,0 +1,438 @@
+{
+    "film_id": 213940,
+    "film_name": "Solo: A Star Wars Story",
+    "version_type": "Standard",
+    "images": {
+        "poster": {
+            "1": {
+                "image_orientation": "portrait",
+                "region": "US",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/213940/213940l1.jpg",
+                    "width": 333,
+                    "height": 500
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/213940/213940h1.jpg",
+                    "width": 200,
+                    "height": 300
+                }
+            }
+        },
+        "still": {
+            "2": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/213940/213940l2.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/213940/213940h2.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            },
+            "3": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/213940/213940l3.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/213940/213940h3.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            },
+            "4": {
+                "image_orientation": "landscape",
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/213940/213940h4.jpg",
+                    "width": 300,
+                    "height": 200
+                },
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/213940/213940l4.jpg",
+                    "width": 500,
+                    "height": 333
+                }
+            },
+            "5": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/213940/213940l5.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/213940/213940h5.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            },
+            "6": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/213940/213940l6.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/213940/213940h6.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            },
+            "7": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/213940/213940l7.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/213940/213940h7.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            },
+            "8": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/213940/213940l8.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/213940/213940h8.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            },
+            "9": {
+                "image_orientation": "landscape",
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/213940/213940h9.jpg",
+                    "width": 300,
+                    "height": 200
+                },
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/213940/213940l9.jpg",
+                    "width": 500,
+                    "height": 333
+                }
+            },
+            "a": {
+                "image_orientation": "landscape",
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/213940/213940ha.jpg",
+                    "width": 300,
+                    "height": 200
+                },
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/213940/213940la.jpg",
+                    "width": 500,
+                    "height": 333
+                }
+            },
+            "b": {
+                "image_orientation": "landscape",
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/213940/213940hb.jpg",
+                    "width": 300,
+                    "height": 200
+                },
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/213940/213940lb.jpg",
+                    "width": 500,
+                    "height": 333
+                }
+            },
+            "c": {
+                "image_orientation": "landscape",
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/213940/213940hc.jpg",
+                    "width": 300,
+                    "height": 200
+                },
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/213940/213940lc.jpg",
+                    "width": 500,
+                    "height": 333
+                }
+            },
+            "d": {
+                "image_orientation": "landscape",
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/213940/213940hd.jpg",
+                    "width": 300,
+                    "height": 200
+                },
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/213940/213940ld.jpg",
+                    "width": 500,
+                    "height": 333
+                }
+            },
+            "e": {
+                "image_orientation": "landscape",
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/213940/213940he.jpg",
+                    "width": 300,
+                    "height": 200
+                },
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/213940/213940le.jpg",
+                    "width": 500,
+                    "height": 333
+                }
+            },
+            "f": {
+                "image_orientation": "landscape",
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/213940/213940hf.jpg",
+                    "width": 300,
+                    "height": 200
+                },
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/213940/213940lf.jpg",
+                    "width": 500,
+                    "height": 333
+                }
+            },
+            "g": {
+                "image_orientation": "landscape",
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/213940/213940hg.jpg",
+                    "width": 300,
+                    "height": 200
+                },
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/213940/213940lg.jpg",
+                    "width": 500,
+                    "height": 333
+                }
+            },
+            "h": {
+                "image_orientation": "landscape",
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/213940/213940hh.jpg",
+                    "width": 300,
+                    "height": 200
+                },
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/213940/213940lh.jpg",
+                    "width": 500,
+                    "height": 333
+                }
+            },
+            "i": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/213940/213940li.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/213940/213940hi.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            }
+        }
+    },
+    "synopsis_long": "Board the Millennium Falcon and journey to a galaxy far, far away in Solo: A Star Wars Story, an all-new adventure with the most beloved scoundrel in the galaxy. Through a series of daring escapades deep within a dark and dangerous criminal underworld, Han Solo meets his mighty future copilot Chewbacca and encounters the notorious gambler Lando Calrissian, in a journey that will set the course of one of the Star Wars saga's most unlikely heroes.",
+    "distributor_id": 76,
+    "distributor": "Walt Disney UK",
+    "release_date": "2018-05-24",
+    "age_rating": "12A ",
+    "age_advisory": "moderate violence",
+    "duration_mins": 135,
+    "review_stars": 2,
+    "review_txt": "Solo: a movie no one was clamoring for that has been made without any distinguishing qualities. Pretty much everything that needed to be said about the iconic character of Han Solo was accomplished during his on-screen appearances in Episodes IV-VII. Bringing him back - as played by a different actor - for the sole purpose of fleshing out an already detailed backstory was bound to result in something as leaden and disappointing as this film. An inelegant melding of a bland origin story with a generic heist tale, Solo never generates sufficient energy or interest to elevate it above the level of a failed curiosity. With a miscast Alden Ehrenreich pratfalling while attempting to fill Harrison Ford's shoes and the studio playing musical chairs with directors, the production never stood a chance. In a way, it's a miracle it exhibits this degree of coherence.\n\nIf you're going to go to the trouble of re-casting an iconic role and delving into a character's (mostly) known history, there needs to be a damn good story in place. Absent that, as is the case with Solo, it's hard to see the resulting product as anything other than a money-grab - a crass attempt by a studio to milk the popularity of a brand for maximum profit. \n\nThe well-documented behind-the-scenes turmoil surrounding Solo isn't the kind of atmosphere conducive to a quality production. Original directors Phil Lord and Christopher Miller, brought to the project because of their unique vision and unorthodox approach, departed (in other words, were fired) just short of the completion of principal photography due to \"creative differences.\" Apparently, their vision was too unique and their approach too unorthodox for screenwriter Lawrence Kasdan and Lucasfilm president Kathleen Kennedy. Ron Howard was brought on board to clean things up and keep the movie on schedule. His decision to re-shoot three-quarters of the scenes (which, by DGA rules, gives him sole directorial credit - read up on Richard Donner/Richard Lester and Superman II if you want more clarification) resulted in something that, both tonally and narratively, is poorly focused. \n\nThe events in the movie, occurring \"A long time ago in a galaxy far, far away\", start roughly a dozen years prior to the beginning of A New Hope. Solo chronicles the development of the universe's favorite scoundrel as he evolves from a small-time scammer on a bottom-feeding planet into the \"good man\" who would eventually help lead the rebels to victory. During this movie, we see him seek a reunion with the love of his youth, Qi'ra (Emilia Clarke); join up with Beckett (Woody Harrelson), his mentor in all things unsavory; meet his furry best buddy, Chewbacca (Joonas Suotamo); and make the acquaintance of the suave Lando Calrissian (Donald Glover), who unwisely bets the Millennium Falcon in a game of cards. These unlikely comrades are brought together by the common goal of paying off a debt to the malign Dryden Vos (Paul Bettany) while attempting to score a big payday. It's standard caper/heist material with little to recommend it beyond the setting in which it transpires. In fact, the moment we hear the words \"Kessel Run,\" we know exactly how this is going to end. \n\nSolo has a similar vibe to that of the prequels. Like Episodes I-III, this movie exists with a predetermined outcome and, as a result, there's little opportunity for spontaneity, surprises, or coloring outside the lines. In fact, there are long stretches when the narrative stagnates. The story often seems to be doing little more than going down a list and checking off expected plot points. It takes more than an hour to get all the pieces in place and another 70 minutes to do little of note with them. There are lots of Easter Eggs and familiar musical cues (just about every recognizable John Williams Star Wars tune pops up) - so many, in fact, that they become distracting. It's always nice to hear \"The Imperial March,\" for example, but its usage in Solo is gratuitous at best. \n\nRon Howard, ever respectful that he's playing in another man's playground, stays as true as possible to George Lucas' conception of the galaxy as it existed between Revenge of the Sith and A New Hope. (Howard has a long history with Lucas, who directed him in American Graffiti.) The special effects are competent, although they skew closer to those we saw in the prequels than the original trilogy. Overall, even putting the weak story elements aside, Solo isn't as good as Rogue One in creating a standalone episode from established events. Embedded within the fabric of Rogue One were some memorable moments. There's nothing like that in Solo.\n\nAlden Ehrenreich was cast as the rejuvinated lead despite competition from a number of Hollywood's up-and-coming actors. Whatever qualities he showed during his audition are absent from his performance. He is miscast as Han Solo; it requires a vivid imagination for the viewer to see his Han as a younger version of the character portrayed by Harrison Ford. The same is not true of Donald Glover. Glover's Lando is spot-on - a brilliant recreation of the cocky, charismatic figure originally essayed by Billy Dee Williams. Joonas Suotamo is fine as Chewbacca (having already played him in part in The Force Awakens and in whole in The Last Jedi). Of the newcomers, Emilia Clarke adds a much-needed female presence to an otherwise male-dominated film; Woody Harrelson is disappointingly bland; Thandie Newton and Paul Bettany are underused; and Phoebe Waller-Bridge's L3-37 gets the movie's honorary Jar Jar Binks Award for the most intolerably annoying CGI creation. \n\nAlthough the film is designed to be accessible to a wide audience, there is at least one plot element that will make sense only to those who have watched the animated TV series \"The Clone Wars.\" (In fact, for casual fans familiar only with the movies, it may appear to create a giant inconsistency.) It's difficult to say whether Solo will play better to Star Wars fans or those claiming only a passing familiarity with the characters. The absence of Harrison Ford is keenly felt and the screenplay's prioritization of highlighting moments of Star Wars lore over telling a compelling story makes Solo feel overlong and anticlimactic. Superficially \"fun\" but ultimately hollow, this movie argues that future Star Wars movies might be better served by plowing new, fertile ground rather than churning through terrain that has already given its best yield.\n\n© 2018 James Berardinelli",
+    "trailers": {
+        "film_id": 213940,
+        "film_name": "Solo: A Star Wars Story",
+        "trailers": {
+            "high": [
+                {
+                    "film_trailer": "https://dzm1iom8kpoas.cloudfront.net/213940_high_V3.mp4",
+                    "trailer_image": "https://d3ltpb4h29tx4j.cloudfront.net/213940/213940h5.jpg",
+                    "version": 3,
+                    "quality": "high",
+                    "region": "US"
+                },
+                {
+                    "film_trailer": "https://dzm1iom8kpoas.cloudfront.net/213940_high_V2.mp4",
+                    "trailer_image": "https://d3ltpb4h29tx4j.cloudfront.net/213940/213940h4.jpg",
+                    "version": 2,
+                    "quality": "high",
+                    "region": "US"
+                },
+                {
+                    "film_trailer": "https://dzm1iom8kpoas.cloudfront.net/213940_high.mp4",
+                    "trailer_image": "https://d3ltpb4h29tx4j.cloudfront.net/213940/213940h3.jpg",
+                    "version": 1,
+                    "quality": "high",
+                    "region": "US"
+                }
+            ],
+            "med": [
+                {
+                    "film_trailer": "https://dzm1iom8kpoas.cloudfront.net/213940_med_V3.mp4",
+                    "trailer_image": "https://d3ltpb4h29tx4j.cloudfront.net/213940/213940h5.jpg",
+                    "version": 3,
+                    "quality": "med",
+                    "region": "US"
+                },
+                {
+                    "film_trailer": "https://dzm1iom8kpoas.cloudfront.net/213940_med_V2.mp4",
+                    "trailer_image": "https://d3ltpb4h29tx4j.cloudfront.net/213940/213940h4.jpg",
+                    "version": 2,
+                    "quality": "med",
+                    "region": "US"
+                },
+                {
+                    "film_trailer": "https://dzm1iom8kpoas.cloudfront.net/213940_med.mp4",
+                    "trailer_image": "https://d3ltpb4h29tx4j.cloudfront.net/213940/213940h3.jpg",
+                    "version": 1,
+                    "quality": "med",
+                    "region": "US"
+                }
+            ]
+        }
+    },
+    "genres": [
+        {
+            "genre_id": 10,
+            "genre_name": "SciFi/Fantasy"
+        }
+    ],
+    "cast": [
+        {
+            "cast_id": 1407,
+            "cast_name": "Alden Ehrenreich"
+        },
+        {
+            "cast_id": 2030,
+            "cast_name": "Donald Glover"
+        },
+        {
+            "cast_id": 2062,
+            "cast_name": "Emilia Clarke"
+        },
+        {
+            "cast_id": 993,
+            "cast_name": "Woody Harrelson"
+        },
+        {
+            "cast_id": 13975,
+            "cast_name": "Thandie Newton"
+        },
+        {
+            "cast_id": 19633,
+            "cast_name": "Phoebe Waller-Bridge"
+        },
+        {
+            "cast_id": 19634,
+            "cast_name": "Joonas Suotamo"
+        }
+    ],
+    "directors": [
+        {
+            "director_id": 687,
+            "director_name": "Ron Howard"
+        }
+    ],
+    "producers": [],
+    "writers": [
+        {
+            "writer_id": 18244,
+            "writer_name": "Lawrence and Jon Kasdan"
+        }
+    ],
+    "show_dates": [
+        {
+            "date": "2018-06-14"
+        },
+        {
+            "date": "2018-06-15"
+        },
+        {
+            "date": "2018-06-16"
+        },
+        {
+            "date": "2018-06-17"
+        },
+        {
+            "date": "2018-06-18"
+        },
+        {
+            "date": "2018-06-19"
+        },
+        {
+            "date": "2018-06-20"
+        },
+        {
+            "date": "2018-06-21"
+        },
+        {
+            "date": "2018-06-22"
+        },
+        {
+            "date": "2018-06-23"
+        },
+        {
+            "date": "2018-06-24"
+        },
+        {
+            "date": "2018-06-25"
+        },
+        {
+            "date": "2018-06-26"
+        },
+        {
+            "date": "2018-06-27"
+        },
+        {
+            "date": "2018-06-28"
+        },
+        {
+            "date": "2018-06-29"
+        },
+        {
+            "date": "2018-06-30"
+        },
+        {
+            "date": "2018-07-01"
+        }
+    ],
+    "alternate_versions": [
+        {
+            "film_id": 269510,
+            "film_name": "Solo: A Star Wars Story An IMAX 3D Experience",
+            "version_type": "IMAX3D"
+        },
+        {
+            "film_id": 269511,
+            "film_name": "Solo: A Star Wars Story 3D",
+            "version_type": "3D"
+        },
+        {
+            "film_id": 269691,
+            "film_name": "Solo: A Star Wars Story The IMAX 2D Experience",
+            "version_type": "IMAX"
+        }
+    ],
+    "status": {
+        "state": "OK",
+        "code": 1,
+        "method": "filmDetails",
+        "message": null,
+        "request_method": "GET",
+        "version": "MONAv102",
+        "auth_type": "d"
+    }
+}

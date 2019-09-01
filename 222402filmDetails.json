@@ -1,0 +1,233 @@
+{
+    "film_id": 222402,
+    "film_name": "Sherlock Gnomes",
+    "version_type": "Standard",
+    "images": {
+        "poster": {
+            "1": {
+                "image_orientation": "portrait",
+                "region": "US",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/222402/222402l1.jpg",
+                    "width": 333,
+                    "height": 500
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/222402/222402h1.jpg",
+                    "width": 200,
+                    "height": 300
+                }
+            }
+        },
+        "still": {
+            "2": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/222402/222402l2.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/222402/222402h2.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            },
+            "3": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/222402/222402l3.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/222402/222402h3.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            }
+        }
+    },
+    "synopsis_long": "When Gnomeo and Juliet first arrive in the city with their friends and family, their biggest concern is getting their new garden ready for spring. However, they soon discover that someone is kidnapping garden gnomes all over London. When Gnomeo and Juliet return home to find that everyone in their garden is missing  there's only one gnome to call SHERLOCK GNOMES. The famous detective and sworn protector of London's garden gnomes arrives with his sidekick Watson to investigate the case. The mystery will lead our gnomes on a rollicking adventure where they will meet all new ornaments and explore an undiscovered side of the city.",
+    "distributor_id": 87,
+    "distributor": "Paramount UK",
+    "release_date": "2018-05-11",
+    "age_rating": "U ",
+    "age_advisory": "very mild threat, violence, rude humour",
+    "duration_mins": 86,
+    "review_stars": 0,
+    "review_txt": "",
+    "trailers": {
+        "film_id": 222402,
+        "film_name": "Sherlock Gnomes",
+        "trailers": {
+            "high": [
+                {
+                    "film_trailer": "https://dzm1iom8kpoas.cloudfront.net/222402_high.mp4",
+                    "trailer_image": "https://d3ltpb4h29tx4j.cloudfront.net/222402/222402h3.jpg",
+                    "version": 1,
+                    "quality": "high",
+                    "region": "US"
+                }
+            ],
+            "med": [
+                {
+                    "film_trailer": "https://dzm1iom8kpoas.cloudfront.net/222402_med.mp4",
+                    "trailer_image": "https://d3ltpb4h29tx4j.cloudfront.net/222402/222402h3.jpg",
+                    "version": 1,
+                    "quality": "med",
+                    "region": "US"
+                }
+            ]
+        }
+    },
+    "genres": [
+        {
+            "genre_id": 7,
+            "genre_name": "Animation"
+        }
+    ],
+    "cast": [
+        {
+            "cast_id": 722,
+            "cast_name": "James McAvoy"
+        },
+        {
+            "cast_id": 1269,
+            "cast_name": "Emily Blunt"
+        },
+        {
+            "cast_id": 929,
+            "cast_name": "Chiwetel Ejiofor"
+        },
+        {
+            "cast_id": 5049,
+            "cast_name": "Maggie Smith"
+        },
+        {
+            "cast_id": 997,
+            "cast_name": "Michael Caine"
+        },
+        {
+            "cast_id": 5050,
+            "cast_name": "Ashley Jensen"
+        },
+        {
+            "cast_id": 8654,
+            "cast_name": "Matt Lucas"
+        },
+        {
+            "cast_id": 5008,
+            "cast_name": "Stephen Merchant"
+        },
+        {
+            "cast_id": 17076,
+            "cast_name": "Mary J. Blige"
+        },
+        {
+            "cast_id": 76,
+            "cast_name": "Johnny Depp"
+        }
+    ],
+    "directors": [
+        {
+            "director_id": 1298,
+            "director_name": "John Stevenson"
+        }
+    ],
+    "producers": [],
+    "writers": [
+        {
+            "writer_id": 5380,
+            "writer_name": "Kevin Cecil"
+        },
+        {
+            "writer_id": 5381,
+            "writer_name": "Andy Riley"
+        }
+    ],
+    "show_dates": [
+        {
+            "date": "2018-06-14"
+        },
+        {
+            "date": "2018-06-15"
+        },
+        {
+            "date": "2018-06-16"
+        },
+        {
+            "date": "2018-06-17"
+        },
+        {
+            "date": "2018-06-18"
+        },
+        {
+            "date": "2018-06-19"
+        },
+        {
+            "date": "2018-06-20"
+        },
+        {
+            "date": "2018-06-21"
+        },
+        {
+            "date": "2018-06-22"
+        },
+        {
+            "date": "2018-06-23"
+        },
+        {
+            "date": "2018-06-24"
+        },
+        {
+            "date": "2018-06-30"
+        },
+        {
+            "date": "2018-07-13"
+        },
+        {
+            "date": "2018-07-19"
+        },
+        {
+            "date": "2018-07-27"
+        },
+        {
+            "date": "2018-07-28"
+        },
+        {
+            "date": "2018-07-30"
+        },
+        {
+            "date": "2018-07-31"
+        },
+        {
+            "date": "2018-08-02"
+        },
+        {
+            "date": "2018-08-12"
+        },
+        {
+            "date": "2018-08-19"
+        },
+        {
+            "date": "2018-09-28"
+        }
+    ],
+    "alternate_versions": [
+        {
+            "film_id": 263604,
+            "film_name": "Sherlock Gnomes in 3D",
+            "version_type": "3D"
+        }
+    ],
+    "status": {
+        "state": "OK",
+        "code": 1,
+        "method": "filmDetails",
+        "message": null,
+        "request_method": "GET",
+        "version": "MONAv102",
+        "auth_type": "d"
+    }
+}

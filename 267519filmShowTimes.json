@@ -1,0 +1,226 @@
+{
+    "film": {
+        "film_id": 267519,
+        "film_name": "McQueen",
+        "version_type": "Standard",
+        "film_image": null,
+        "film_image_height": null,
+        "film_image_width": null
+    },
+    "cinemas": [
+        {
+            "cinema_id": 29287,
+            "cinema_name": "Vue Cinemas - Westfield Stratford City",
+            "distance": 6.3319883436322,
+            "logo_url": "https://d2z9fe5yu2p0av.cloudfront.net/chainlogos/uk/UK-712-sq.jpg",
+            "showings": {
+                "Standard": {
+                    "film_id": 267519,
+                    "film_name": "McQueen",
+                    "times": [
+                        {
+                            "start_time": "09:50",
+                            "end_time": "12:06"
+                        },
+                        {
+                            "start_time": "19:55",
+                            "end_time": "22:11"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "cinema_id": 9014,
+            "cinema_name": "Greenwich Picturehouse",
+            "distance": 6.3893553894051,
+            "logo_url": "https://d2z9fe5yu2p0av.cloudfront.net/chainlogos/uk/UK-1100-sq.jpg",
+            "showings": {
+                "Standard": {
+                    "film_id": 267519,
+                    "film_name": "McQueen",
+                    "times": [
+                        {
+                            "start_time": "12:00",
+                            "end_time": "14:16"
+                        },
+                        {
+                            "start_time": "17:15",
+                            "end_time": "19:31"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "cinema_id": 9401,
+            "cinema_name": "Cineworld Cinema - West India Quay",
+            "distance": 6.5598491287464,
+            "logo_url": "https://d2z9fe5yu2p0av.cloudfront.net/chainlogos/uk/UK-868-sq.jpg",
+            "showings": {
+                "Standard": {
+                    "film_id": 267519,
+                    "film_name": "McQueen",
+                    "times": [
+                        {
+                            "start_time": "14:20",
+                            "end_time": "16:36"
+                        },
+                        {
+                            "start_time": "17:10",
+                            "end_time": "19:26"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "cinema_id": 42726,
+            "cinema_name": "Curzon Goldsmiths",
+            "distance": 7.6293258785185,
+            "logo_url": "https://d2z9fe5yu2p0av.cloudfront.net/chainlogos/uk/UK-1027-sq.jpg",
+            "showings": {
+                "Standard": {
+                    "film_id": 267519,
+                    "film_name": "McQueen",
+                    "times": [
+                        {
+                            "start_time": "17:30",
+                            "end_time": "19:46"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "cinema_id": 43934,
+            "cinema_name": "The Castle Cinema",
+            "distance": 7.9812676882197,
+            "logo_url": "https://d2z9fe5yu2p0av.cloudfront.net/chainlogos/uk/UK-0-sq.jpg",
+            "showings": {
+                "Standard": {
+                    "film_id": 267519,
+                    "film_name": "McQueen",
+                    "times": [
+                        {
+                            "start_time": "16:30",
+                            "end_time": "18:46"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "cinema_id": 28246,
+            "cinema_name": "Hackney Picturehouse",
+            "distance": 8.3355710702695,
+            "logo_url": "https://d2z9fe5yu2p0av.cloudfront.net/chainlogos/uk/UK-1100-sq.jpg",
+            "showings": {
+                "Standard": {
+                    "film_id": 267519,
+                    "film_name": "McQueen",
+                    "times": [
+                        {
+                            "start_time": "14:40",
+                            "end_time": "16:56"
+                        },
+                        {
+                            "start_time": "17:20",
+                            "end_time": "19:36"
+                        },
+                        {
+                            "start_time": "20:30",
+                            "end_time": "22:46"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "cinema_id": 43607,
+            "cinema_name": "Curzon Aldgate",
+            "distance": 8.623665203731,
+            "logo_url": "https://d2z9fe5yu2p0av.cloudfront.net/chainlogos/uk/UK-1027-sq.jpg",
+            "showings": {
+                "Standard": {
+                    "film_id": 267519,
+                    "film_name": "McQueen",
+                    "times": [
+                        {
+                            "start_time": "13:20",
+                            "end_time": "15:36"
+                        },
+                        {
+                            "start_time": "18:10",
+                            "end_time": "20:26"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "cinema_id": 10261,
+            "cinema_name": "Rich Mix Cinema",
+            "distance": 8.7944803768301,
+            "logo_url": "https://d2z9fe5yu2p0av.cloudfront.net/chainlogos/uk/UK-0-sq.jpg",
+            "showings": {
+                "Standard": {
+                    "film_id": 267519,
+                    "film_name": "McQueen",
+                    "times": [
+                        {
+                            "start_time": "18:30",
+                            "end_time": "20:46"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "cinema_id": 9547,
+            "cinema_name": "Rio Cinema",
+            "distance": 9.2433780929503,
+            "logo_url": "https://d2z9fe5yu2p0av.cloudfront.net/chainlogos/uk/UK-0-sq.jpg",
+            "showings": {
+                "Standard": {
+                    "film_id": 267519,
+                    "film_name": "McQueen",
+                    "times": [
+                        {
+                            "start_time": "13:30",
+                            "end_time": "15:46"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "cinema_id": 40781,
+            "cinema_name": "East Dulwich Picturehouse",
+            "distance": 9.6251874727351,
+            "logo_url": "https://d2z9fe5yu2p0av.cloudfront.net/chainlogos/uk/UK-1100-sq.jpg",
+            "showings": {
+                "Standard": {
+                    "film_id": 267519,
+                    "film_name": "McQueen",
+                    "times": [
+                        {
+                            "start_time": "20:00",
+                            "end_time": "22:16"
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "count": 10,
+    "status": {
+        "state": "OK",
+        "code": 1,
+        "method": "filmShowTimes",
+        "message": null,
+        "request_method": "GET",
+        "version": "MONAv102",
+        "auth_type": "d"
+    }
+}

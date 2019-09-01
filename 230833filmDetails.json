@@ -1,0 +1,160 @@
+{
+    "film_id": 230833,
+    "film_name": "Show Dogs",
+    "version_type": "Standard",
+    "images": {
+        "poster": {
+            "1": {
+                "image_orientation": "portrait",
+                "region": "US",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/230833/230833l1.jpg",
+                    "width": 333,
+                    "height": 500
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/230833/230833h1.jpg",
+                    "width": 200,
+                    "height": 300
+                }
+            }
+        }
+    },
+    "synopsis_long": "Starring Will Arnett, Chris \"Ludacris\" Bridges, Natasha Lyonne, Jordin Sparks, Gabriel Iglesias, Shaquille O'Neal, Alan Cumming, and Stanley Tucci, SHOWDOGS is a family comedy about the unlikely pairing of a human detective (Arnett) and his canine partner (voice of Chris \"Ludacris\" Bridges), who has to go undercover at the world's most exclusive dog show to solve his biggest case yet.",
+    "distributor_id": 347,
+    "distributor": "eOne",
+    "release_date": "2018-05-25",
+    "age_rating": "PG ",
+    "age_advisory": "mild bad language, rude humour, violence",
+    "duration_mins": 92,
+    "review_stars": 0,
+    "review_txt": "",
+    "trailers": {
+        "film_id": 230833,
+        "film_name": "Show Dogs",
+        "trailers": {
+            "high": [
+                {
+                    "film_trailer": "https://dzm1iom8kpoas.cloudfront.net/230833_high.mp4",
+                    "trailer_image": "https://d3ltpb4h29tx4j.cloudfront.net/230833/230833h3.jpg",
+                    "version": 1,
+                    "quality": "high",
+                    "region": "US"
+                }
+            ],
+            "med": [
+                {
+                    "film_trailer": "https://dzm1iom8kpoas.cloudfront.net/230833_med.mp4",
+                    "trailer_image": "https://d3ltpb4h29tx4j.cloudfront.net/230833/230833h3.jpg",
+                    "version": 1,
+                    "quality": "med",
+                    "region": "US"
+                }
+            ]
+        }
+    },
+    "genres": [
+        {
+            "genre_id": 3,
+            "genre_name": "Comedy"
+        }
+    ],
+    "cast": [
+        {
+            "cast_id": 1862,
+            "cast_name": "Will Arnett"
+        },
+        {
+            "cast_id": 1646,
+            "cast_name": "Natasha Lyonne"
+        },
+        {
+            "cast_id": 17149,
+            "cast_name": "Chris \"Ludacris\" Bridges"
+        },
+        {
+            "cast_id": 15447,
+            "cast_name": "Jordin Sparks"
+        },
+        {
+            "cast_id": 2460,
+            "cast_name": "Gabriel Iglesias"
+        },
+        {
+            "cast_id": 29579,
+            "cast_name": "Shaquille O'Neal"
+        },
+        {
+            "cast_id": 3172,
+            "cast_name": "Alan Cumming"
+        },
+        {
+            "cast_id": 357,
+            "cast_name": "Stanley Tucci"
+        }
+    ],
+    "directors": [
+        {
+            "director_id": 1658,
+            "director_name": "Raja Gosnell"
+        }
+    ],
+    "producers": [],
+    "writers": [
+        {
+            "writer_id": 19892,
+            "writer_name": "Max Botkin"
+        }
+    ],
+    "show_dates": [
+        {
+            "date": "2018-06-14"
+        },
+        {
+            "date": "2018-06-15"
+        },
+        {
+            "date": "2018-06-16"
+        },
+        {
+            "date": "2018-06-17"
+        },
+        {
+            "date": "2018-06-18"
+        },
+        {
+            "date": "2018-06-19"
+        },
+        {
+            "date": "2018-06-20"
+        },
+        {
+            "date": "2018-06-21"
+        },
+        {
+            "date": "2018-06-23"
+        },
+        {
+            "date": "2018-06-24"
+        },
+        {
+            "date": "2018-06-30"
+        },
+        {
+            "date": "2018-07-01"
+        },
+        {
+            "date": "2018-07-04"
+        }
+    ],
+    "alternate_versions": [],
+    "status": {
+        "state": "OK",
+        "code": 1,
+        "method": "filmDetails",
+        "message": null,
+        "request_method": "GET",
+        "version": "MONAv102",
+        "auth_type": "d"
+    }
+}

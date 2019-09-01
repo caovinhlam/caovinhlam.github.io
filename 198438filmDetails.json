@@ -1,0 +1,368 @@
+{
+    "film_id": 198438,
+    "film_name": "Avengers: Infinity War",
+    "version_type": "Standard",
+    "images": {
+        "poster": {
+            "1": {
+                "image_orientation": "portrait",
+                "region": "US",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/198438/198438l1.jpg",
+                    "width": 333,
+                    "height": 500
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/198438/198438h1.jpg",
+                    "width": 200,
+                    "height": 300
+                }
+            }
+        },
+        "still": {
+            "2": {
+                "image_orientation": "landscape",
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/198438/198438h2.jpg",
+                    "width": 300,
+                    "height": 200
+                },
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/198438/198438l2.jpg",
+                    "width": 500,
+                    "height": 333
+                }
+            },
+            "3": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/198438/198438l3.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/198438/198438h3.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            },
+            "4": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/198438/198438l4.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/198438/198438h4.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            },
+            "5": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/198438/198438l5.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/198438/198438h5.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            },
+            "6": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/198438/198438l6.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/198438/198438h6.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            },
+            "7": {
+                "image_orientation": "landscape",
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/198438/198438h7.jpg",
+                    "width": 300,
+                    "height": 200
+                },
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/198438/198438l7.jpg",
+                    "width": 500,
+                    "height": 333
+                }
+            },
+            "8": {
+                "image_orientation": "landscape",
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/198438/198438h8.jpg",
+                    "width": 300,
+                    "height": 200
+                },
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/198438/198438l8.jpg",
+                    "width": 500,
+                    "height": 333
+                }
+            },
+            "9": {
+                "image_orientation": "landscape",
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/198438/198438h9.jpg",
+                    "width": 300,
+                    "height": 200
+                },
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/198438/198438l9.jpg",
+                    "width": 500,
+                    "height": 333
+                }
+            },
+            "a": {
+                "image_orientation": "landscape",
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/198438/198438ha.jpg",
+                    "width": 300,
+                    "height": 200
+                },
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/198438/198438la.jpg",
+                    "width": 500,
+                    "height": 333
+                }
+            },
+            "b": {
+                "image_orientation": "landscape",
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/198438/198438hb.jpg",
+                    "width": 300,
+                    "height": 200
+                },
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/198438/198438lb.jpg",
+                    "width": 500,
+                    "height": 333
+                }
+            },
+            "c": {
+                "image_orientation": "landscape",
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/198438/198438hc.jpg",
+                    "width": 300,
+                    "height": 200
+                },
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/198438/198438lc.jpg",
+                    "width": 500,
+                    "height": 333
+                }
+            },
+            "d": {
+                "image_orientation": "landscape",
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/198438/198438hd.jpg",
+                    "width": 300,
+                    "height": 200
+                },
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/198438/198438ld.jpg",
+                    "width": 500,
+                    "height": 333
+                }
+            },
+            "e": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/198438/198438le.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/198438/198438he.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            }
+        }
+    },
+    "synopsis_long": "An unprecedented cinematic journey ten years in the making and spanning the entire Marvel Cinematic Universe, Marvel Studios'  \"Avengers: Infinity War\" brings to the screen the ultimate, deadliest showdown of all time. The Avengers and their Super Hero allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+    "distributor_id": 76,
+    "distributor": "Walt Disney UK",
+    "release_date": "2018-04-26",
+    "age_rating": "12A ",
+    "age_advisory": "moderate violence, threat",
+    "duration_mins": 156,
+    "review_stars": 3.5,
+    "review_txt": "Minimal spoilers. There are some vague references to things that happen and the usual discussion about plot elements available via trailers and pre-release clips, but I have tried to remain as \"spoiler-lite\" as possible. As always, however, if you're concerned about maintaining the \"virgin\" experience, avoid reading this until you have seen the movie. \n\nAvengers: Infinity War knows what it wants to be and goes about pursuing that goal with relentless intensity. An exhausting 150 minutes after opening with a bang, the film concludes with a quieter, solemn moment that illustrates how this movie has done something never previously attempted by a superhero film. No, it's not a game-changer like Deadpool or Logan. It remains firmly anchored within the \"traditional\" comic book milieu. But, with an unwavering devotion to spectacle and action, the film throws down a gauntlet where this kind of mass team-up is concerned. \n\nThe third Avengers movie is the 19th entry into the ongoing series set in the Marvel Cinematic Universe (MCU), and it shows that the long game is approaching its end. Avengers: Infinity War delivers a fan's wet dream. It's overstuffed with familiar characters; moves with breakneck speed on a obstacle-filled track that careens between New York, space, Wakanda, and other locales; and ends with a shock to the system. The battles are more visceral and brutal than we're accustomed to seeing in PG-13 comic book fare. There are moments of pathos and comedy and things happen that I don't dare mention until the time for spoilers has passed. There's a sense of incompleteness surrounding the ending that will leave viewers clamoring for the next installment while praying that the filmmakers don't undo the daring things they accomplished here. 2019's Avengers movie will go a long way to determining how Infinity War is perceived in retrospect: the first part of a classic cinematic superhero tale or a tease that falls apart when the rest of the story is told. \n\nTo summarize the plot would be an exercise in futility. There are too many characters and too much going on. Everyone is embroiled in their own little subplot but the overarching narrative thread is that uber-villain Thanos (Josh Brolin) is coming and, unless he is stopped, he will bring with him a universal apocalypse. His goal is to collect the six so-called \"Infinity Stones.\" Once he gets them, he will have the power of a god and no living entity will be able to thwart him. It's up to the Avengers, the Guardians of the Galaxy, and a variety of other non-affiliated MCU heroes to saddle up and engage Thanos and his minions before the Infinity Stones quest is completed. But the Big Bad Guy is as complete and unstoppable a character as we've encountered, evolving from the shadowy puppet master lurking in the background to a destroyer of worlds. Infinity War cares enough to give him a legitimate motivation. He's not a traditional James Bond-flavored villain who's out for power and dominion. He has a higher calling and it transforms him into a tragic figure of almost Shakespearean proportions. In this summer of Josh Brolin, the actor's first role may be his most memorable. \n\nThe volume of characters guarantees that no one gets much screen time and a few (like Ant-Man and Hawkeye) are absent altogether. If you're a big Tony Stark fan, know that Robert Downey Jr. clocks in more minutes than most of the actors but that's still not a lot. Thanos appears more than any of the heroes; in some ways, this is his movie. In order to make things manageable, the characters are broken into groups. Iron Man, Spider-Man (Tom Holland), and Doctor Strange (Benedict Cumberbatch) hang out and trade quips. The Guardians - Star Lord (Chris Pratt), Gamora (Zoe Saldana), Drax (Dave Buatista), Rocket Racoon (Bradley Cooper), Brooding Teen Groot (Terry Notary), and Mantis (Pom Klementieff) - are joined by Thor (Chris Hemsworth) when they find him floating around in space. No-Longer-Captain-America (Chris Evans) returns to the fray, bringing his ex-Avengers compatriots with him. Vision (Paul Bettany) and Scarlett Witch (Elizabeth Olsen) share a few tender moments before eventually winding up in Wakanda with Black Panther (Chadwick Boseman). Bruce Banner (Mark Ruffalo) starts out the film with one group (the one he was with at the end of Thor: Ragnarok) before moving on to another then a third. \n\nMuch of the screen time is devoted to battles. Infinity War doesn't waste a lot of time with exposition or character interaction, although there are a few nice moments, mostly early in the film. Banter is generally kept to a minimum, although Spider-Man and Iron Man trade quips even in the heat of battle.  From the first scene to the next-to-last, it's wham-bam-pow. At times, it's a little too much; after a while, the sameness of the fighting, even with all the spectacular CGI, borders on monotonous. You can take a bathroom break and not miss anything - they'll still be slugging it out and blowing things up when you get back. With the stakes so high - 50% of the universe's population is at risk - it seems odd that it comes down to characters pummeling each other. But there's nothing truer to the comic book nature of the story than that. \n\nInfinity War delights in throwing surprises at viewers with as much regularity as Iron Man tosses out plasma bolts. The movie is many things but predictability isn't among its defining characteristics. It goes dark early and often; at times, it almost feels like the MCU has borrowed from the mood of Christopher Nolan's Dark Knight trilogy (although it avoids the distressingly downbeat tone of Zach Snyder's DCEU outings). Even the Guardians of the Galaxy aren't their usual flippant selves - they start out that way but it doesn't last. The apocalyptic nature of the threat has a way of sobering up even the most sarcastic of superheroes. In my review of this film's prequel, Captain America: Civil War, I wrote the following: \"Consequences, however, are disappointingly limited.\" The same can't be said of Infinity War. This movie is all about consequences - they are numerous and far-ranging. \n\nThis movie is a lot of fun, with a dash of substance thrown in for those who care to look (Thanos and his plan are allegorical). It satisfies the deep-rooted escapist desire most movie-goers experience from time-to-time with its spectacular visuals, unflagging pace, and understanding on the part of Joe and Anthony Russo of what MCU fans want from this important piece of the saga. The staunch superhero fan won't need a morning cup of coffee before seeing Infinity War - the film offers a bigger jolt than caffeine could ever provide. As for those who are fatigued by the genre or were never interested in the first place, there's nothing in this film that re-invents the comic book movie or morphs it into something else. The mission of Infinity War isn't to convert the pagans; it's to satisfy the true believers and, to that end, it succeeds admirably. Twelve months will seem like a long time to wait for the next Avengers movie to see whether the Russo Brothers craft a worthy conclusion to the story begun in Infinity War, but for at least a year we can savor where this story has taken things.\n\n© 2018 James Berardinelli",
+    "trailers": {
+        "film_id": 198438,
+        "film_name": "Avengers: Infinity War",
+        "trailers": {
+            "high": [
+                {
+                    "film_trailer": "https://dzm1iom8kpoas.cloudfront.net/198438_high_V2.mp4",
+                    "trailer_image": "https://d3ltpb4h29tx4j.cloudfront.net/198438/198438h4.jpg",
+                    "version": 2,
+                    "quality": "high",
+                    "region": "US"
+                },
+                {
+                    "film_trailer": "https://dzm1iom8kpoas.cloudfront.net/198438_high.mp4",
+                    "trailer_image": "https://d3ltpb4h29tx4j.cloudfront.net/198438/198438h3.jpg",
+                    "version": 1,
+                    "quality": "high",
+                    "region": "US"
+                }
+            ],
+            "med": [
+                {
+                    "film_trailer": "https://dzm1iom8kpoas.cloudfront.net/198438_med_V2.mp4",
+                    "trailer_image": "https://d3ltpb4h29tx4j.cloudfront.net/198438/198438h4.jpg",
+                    "version": 2,
+                    "quality": "med",
+                    "region": "US"
+                },
+                {
+                    "film_trailer": "https://dzm1iom8kpoas.cloudfront.net/198438_med.mp4",
+                    "trailer_image": "https://d3ltpb4h29tx4j.cloudfront.net/198438/198438h3.jpg",
+                    "version": 1,
+                    "quality": "med",
+                    "region": "US"
+                }
+            ]
+        }
+    },
+    "genres": [
+        {
+            "genre_id": 5,
+            "genre_name": "Action/Adventure"
+        },
+        {
+            "genre_id": 10,
+            "genre_name": "SciFi/Fantasy"
+        }
+    ],
+    "cast": [
+        {
+            "cast_id": 588,
+            "cast_name": "Robert Downey Jr."
+        },
+        {
+            "cast_id": 587,
+            "cast_name": "Chris Evans"
+        },
+        {
+            "cast_id": 589,
+            "cast_name": "Scarlett Johansson"
+        },
+        {
+            "cast_id": 728,
+            "cast_name": "Mark Ruffalo"
+        },
+        {
+            "cast_id": 591,
+            "cast_name": "Anthony Mackie"
+        },
+        {
+            "cast_id": 1239,
+            "cast_name": "Chris Hemsworth"
+        },
+        {
+            "cast_id": 594,
+            "cast_name": "Paul Bettany"
+        },
+        {
+            "cast_id": 210,
+            "cast_name": "Jeremy Renner"
+        },
+        {
+            "cast_id": 442,
+            "cast_name": "Chadwick Boseman"
+        },
+        {
+            "cast_id": 1535,
+            "cast_name": "Elizabeth Olsen"
+        }
+    ],
+    "directors": [
+        {
+            "director_id": 55,
+            "director_name": "Anthony Russo"
+        },
+        {
+            "director_id": 54,
+            "director_name": "Joe Russo"
+        }
+    ],
+    "producers": [],
+    "writers": [
+        {
+            "writer_id": 8344,
+            "writer_name": "Jim Starlin"
+        }
+    ],
+    "show_dates": [
+        {
+            "date": "2018-06-14"
+        },
+        {
+            "date": "2018-06-15"
+        },
+        {
+            "date": "2018-06-16"
+        },
+        {
+            "date": "2018-06-17"
+        },
+        {
+            "date": "2018-06-18"
+        },
+        {
+            "date": "2018-06-19"
+        },
+        {
+            "date": "2018-06-20"
+        },
+        {
+            "date": "2018-06-21"
+        },
+        {
+            "date": "2018-06-23"
+        },
+        {
+            "date": "2018-07-04"
+        }
+    ],
+    "alternate_versions": [
+        {
+            "film_id": 202143,
+            "film_name": "Avengers: Infinity War 3D",
+            "version_type": "3D"
+        },
+        {
+            "film_id": 263203,
+            "film_name": "Avengers: Infinity War An IMAX 3D Experience",
+            "version_type": "IMAX3D"
+        },
+        {
+            "film_id": 263206,
+            "film_name": "Avengers: Infinity War The IMAX 2D Experience",
+            "version_type": "IMAX"
+        }
+    ],
+    "status": {
+        "state": "OK",
+        "code": 1,
+        "method": "filmDetails",
+        "message": null,
+        "request_method": "GET",
+        "version": "MONAv102",
+        "auth_type": "d"
+    }
+}

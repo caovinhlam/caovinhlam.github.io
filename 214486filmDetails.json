@@ -1,0 +1,363 @@
+{
+    "film_id": 214486,
+    "film_name": "Jurassic World: Fallen Kingdom",
+    "version_type": "Standard",
+    "images": {
+        "poster": {
+            "1": {
+                "image_orientation": "portrait",
+                "region": "US",
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/214486/214486h1.jpg",
+                    "width": 200,
+                    "height": 300
+                },
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/214486/214486l1.jpg",
+                    "width": 333,
+                    "height": 500
+                }
+            }
+        },
+        "still": {
+            "2": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/214486/214486l2.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/214486/214486h2.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            },
+            "3": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/214486/214486l3.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/214486/214486h3.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            },
+            "4": {
+                "image_orientation": "landscape",
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/214486/214486h4.jpg",
+                    "width": 300,
+                    "height": 200
+                },
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/214486/214486l4.jpg",
+                    "width": 500,
+                    "height": 333
+                }
+            },
+            "5": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/214486/214486l5.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/214486/214486h5.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            },
+            "6": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/214486/214486l6.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/214486/214486h6.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            },
+            "7": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/214486/214486l7.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/214486/214486h7.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            },
+            "8": {
+                "image_orientation": "landscape",
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/214486/214486h8.jpg",
+                    "width": 300,
+                    "height": 200
+                },
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/214486/214486l8.jpg",
+                    "width": 500,
+                    "height": 333
+                }
+            },
+            "9": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/214486/214486l9.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/214486/214486h9.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            },
+            "a": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/214486/214486la.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/214486/214486ha.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            },
+            "b": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/214486/214486lb.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/214486/214486hb.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            }
+        }
+    },
+    "synopsis_long": "It's been three years since theme park and luxury resort Jurassic World was destroyed by dinosaurs out of containment.  Isla Nublar now sits abandoned by humans while the surviving dinosaurs fend for themselves in the jungles.\n\nWhen the island's dormant volcano begins roaring to life, Owen (Chris Pratt) and Claire (Bryce Dallas Howard) mount a campaign to rescue the remaining dinosaurs from this extinction-level event.  Owen is driven to find Blue, his lead raptor who's still missing in the wild, and Claire has grown a respect for these creatures she now makes her mission.  Arriving on the unstable island as lava begins raining down, their expedition uncovers a conspiracy that could return our entire planet to a perilous order not seen since prehistoric times.",
+    "distributor_id": 2027,
+    "distributor": "Universal International",
+    "release_date": "2018-06-06",
+    "age_rating": "12A ",
+    "age_advisory": "moderate threat, occasional bloody moments, action violence",
+    "duration_mins": 128,
+    "review_stars": 0,
+    "review_txt": "",
+    "trailers": {
+        "film_id": 214486,
+        "film_name": "Jurassic World: Fallen Kingdom",
+        "trailers": {
+            "high": [
+                {
+                    "film_trailer": "https://dzm1iom8kpoas.cloudfront.net/214486_high_V3.mp4",
+                    "trailer_image": "https://d3ltpb4h29tx4j.cloudfront.net/214486/214486h5.jpg",
+                    "version": 3,
+                    "quality": "high",
+                    "region": "US"
+                },
+                {
+                    "film_trailer": "https://dzm1iom8kpoas.cloudfront.net/214486_high_V2.mp4",
+                    "trailer_image": "https://d3ltpb4h29tx4j.cloudfront.net/214486/214486h4.jpg",
+                    "version": 2,
+                    "quality": "high",
+                    "region": "US"
+                },
+                {
+                    "film_trailer": "https://dzm1iom8kpoas.cloudfront.net/214486_high.mp4",
+                    "trailer_image": "https://d3ltpb4h29tx4j.cloudfront.net/214486/214486h3.jpg",
+                    "version": 1,
+                    "quality": "high",
+                    "region": "US"
+                }
+            ],
+            "med": [
+                {
+                    "film_trailer": "https://dzm1iom8kpoas.cloudfront.net/214486_med_V3.mp4",
+                    "trailer_image": "https://d3ltpb4h29tx4j.cloudfront.net/214486/214486h5.jpg",
+                    "version": 3,
+                    "quality": "med",
+                    "region": "US"
+                },
+                {
+                    "film_trailer": "https://dzm1iom8kpoas.cloudfront.net/214486_med_V2.mp4",
+                    "trailer_image": "https://d3ltpb4h29tx4j.cloudfront.net/214486/214486h4.jpg",
+                    "version": 2,
+                    "quality": "med",
+                    "region": "US"
+                },
+                {
+                    "film_trailer": "https://dzm1iom8kpoas.cloudfront.net/214486_med.mp4",
+                    "trailer_image": "https://d3ltpb4h29tx4j.cloudfront.net/214486/214486h3.jpg",
+                    "version": 1,
+                    "quality": "med",
+                    "region": "US"
+                }
+            ]
+        }
+    },
+    "genres": [
+        {
+            "genre_id": 5,
+            "genre_name": "Action/Adventure"
+        }
+    ],
+    "cast": [
+        {
+            "cast_id": 1392,
+            "cast_name": "Chris Pratt"
+        },
+        {
+            "cast_id": 2628,
+            "cast_name": "Bryce Dallas Howard"
+        },
+        {
+            "cast_id": 3974,
+            "cast_name": "James Cromwell"
+        },
+        {
+            "cast_id": 453,
+            "cast_name": "Ted Levine"
+        },
+        {
+            "cast_id": 24579,
+            "cast_name": "Justice Smith"
+        },
+        {
+            "cast_id": 65,
+            "cast_name": "Geraldine Chaplin"
+        },
+        {
+            "cast_id": 24580,
+            "cast_name": "Daniella Pineda"
+        },
+        {
+            "cast_id": 197,
+            "cast_name": "Toby Jones"
+        },
+        {
+            "cast_id": 3158,
+            "cast_name": "BD Wong"
+        },
+        {
+            "cast_id": 1604,
+            "cast_name": "Jeff Goldblum"
+        }
+    ],
+    "directors": [
+        {
+            "director_id": 48074,
+            "director_name": "J.A. Bayona"
+        }
+    ],
+    "producers": [],
+    "writers": [],
+    "show_dates": [
+        {
+            "date": "2018-06-14"
+        },
+        {
+            "date": "2018-06-15"
+        },
+        {
+            "date": "2018-06-16"
+        },
+        {
+            "date": "2018-06-17"
+        },
+        {
+            "date": "2018-06-18"
+        },
+        {
+            "date": "2018-06-19"
+        },
+        {
+            "date": "2018-06-20"
+        },
+        {
+            "date": "2018-06-21"
+        },
+        {
+            "date": "2018-06-22"
+        },
+        {
+            "date": "2018-06-23"
+        },
+        {
+            "date": "2018-06-24"
+        },
+        {
+            "date": "2018-06-25"
+        },
+        {
+            "date": "2018-06-26"
+        },
+        {
+            "date": "2018-06-27"
+        },
+        {
+            "date": "2018-06-28"
+        },
+        {
+            "date": "2018-06-29"
+        },
+        {
+            "date": "2018-07-21"
+        },
+        {
+            "date": "2018-07-22"
+        },
+        {
+            "date": "2018-07-23"
+        },
+        {
+            "date": "2018-07-25"
+        },
+        {
+            "date": "2018-07-26"
+        }
+    ],
+    "alternate_versions": [
+        {
+            "film_id": 263871,
+            "film_name": "Jurassic World: Fallen Kingdom 3D",
+            "version_type": "3D"
+        },
+        {
+            "film_id": 270873,
+            "film_name": "Jurassic World: Fallen Kingdom The IMAX 2D Experience",
+            "version_type": "IMAX"
+        },
+        {
+            "film_id": 270874,
+            "film_name": "Jurassic World: Fallen Kingdom IMAX 3D",
+            "version_type": "IMAX3D"
+        }
+    ],
+    "status": {
+        "state": "OK",
+        "code": 1,
+        "method": "filmDetails",
+        "message": null,
+        "request_method": "GET",
+        "version": "MONAv102",
+        "auth_type": "d"
+    }
+}

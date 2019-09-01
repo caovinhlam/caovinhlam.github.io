@@ -1,0 +1,690 @@
+{
+    "film": {
+        "film_id": 214486,
+        "film_name": "Jurassic World: Fallen Kingdom",
+        "version_type": "Standard",
+        "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/214486/214486h2.jpg",
+        "film_image_height": 200,
+        "film_image_width": 300
+    },
+    "cinemas": [
+        {
+            "cinema_id": 8926,
+            "cinema_name": "Vue Cinemas - Dagenham",
+            "distance": 1.5346436514578,
+            "logo_url": "https://d2z9fe5yu2p0av.cloudfront.net/chainlogos/uk/UK-712-sq.jpg",
+            "showings": {
+                "Standard": {
+                    "film_id": 214486,
+                    "film_name": "Jurassic World: Fallen Kingdom",
+                    "times": [
+                        {
+                            "start_time": "11:05",
+                            "end_time": "13:38"
+                        },
+                        {
+                            "start_time": "12:50",
+                            "end_time": "15:23"
+                        },
+                        {
+                            "start_time": "14:00",
+                            "end_time": "16:33"
+                        },
+                        {
+                            "start_time": "15:40",
+                            "end_time": "18:13"
+                        },
+                        {
+                            "start_time": "17:05",
+                            "end_time": "19:38"
+                        },
+                        {
+                            "start_time": "18:40",
+                            "end_time": "21:13"
+                        },
+                        {
+                            "start_time": "20:00",
+                            "end_time": "22:33"
+                        },
+                        {
+                            "start_time": "20:40",
+                            "end_time": "23:13"
+                        },
+                        {
+                            "start_time": "21:40",
+                            "end_time": "00:13"
+                        },
+                        {
+                            "start_time": "22:45",
+                            "end_time": "01:18"
+                        }
+                    ]
+                },
+                "3D": {
+                    "film_id": 263871,
+                    "film_name": "Jurassic World: Fallen Kingdom 3D",
+                    "times": [
+                        {
+                            "start_time": "14:50",
+                            "end_time": "17:23"
+                        },
+                        {
+                            "start_time": "17:50",
+                            "end_time": "20:23"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "cinema_id": 8507,
+            "cinema_name": "Showcase Newham",
+            "distance": 2.3912532294299,
+            "logo_url": "https://d2z9fe5yu2p0av.cloudfront.net/chainlogos/uk/UK-577-sq.jpg",
+            "showings": {
+                "Standard": {
+                    "film_id": 214486,
+                    "film_name": "Jurassic World: Fallen Kingdom",
+                    "times": [
+                        {
+                            "start_time": "12:00",
+                            "end_time": "14:33"
+                        },
+                        {
+                            "start_time": "13:00",
+                            "end_time": "15:33"
+                        },
+                        {
+                            "start_time": "15:15",
+                            "end_time": "17:48"
+                        },
+                        {
+                            "start_time": "16:15",
+                            "end_time": "18:48"
+                        },
+                        {
+                            "start_time": "18:30",
+                            "end_time": "21:03"
+                        },
+                        {
+                            "start_time": "19:30",
+                            "end_time": "22:03"
+                        },
+                        {
+                            "start_time": "21:45",
+                            "end_time": "00:18"
+                        },
+                        {
+                            "start_time": "22:30",
+                            "end_time": "01:03"
+                        }
+                    ]
+                },
+                "3D": {
+                    "film_id": 263871,
+                    "film_name": "Jurassic World: Fallen Kingdom 3D",
+                    "times": [
+                        {
+                            "start_time": "10:45",
+                            "end_time": "13:18"
+                        },
+                        {
+                            "start_time": "12:30",
+                            "end_time": "15:03"
+                        },
+                        {
+                            "start_time": "14:00",
+                            "end_time": "16:33"
+                        },
+                        {
+                            "start_time": "15:45",
+                            "end_time": "18:18"
+                        },
+                        {
+                            "start_time": "17:15",
+                            "end_time": "19:48"
+                        },
+                        {
+                            "start_time": "19:00",
+                            "end_time": "21:33"
+                        },
+                        {
+                            "start_time": "20:30",
+                            "end_time": "23:03"
+                        },
+                        {
+                            "start_time": "22:15",
+                            "end_time": "00:48"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "cinema_id": 8964,
+            "cinema_name": "Cineworld Cinema - Bexleyheath",
+            "distance": 3.8464576159988,
+            "logo_url": "https://d2z9fe5yu2p0av.cloudfront.net/chainlogos/uk/UK-868-sq.jpg",
+            "showings": {
+                "Standard": {
+                    "film_id": 214486,
+                    "film_name": "Jurassic World: Fallen Kingdom",
+                    "times": [
+                        {
+                            "start_time": "13:00",
+                            "end_time": "15:33"
+                        },
+                        {
+                            "start_time": "15:00",
+                            "end_time": "17:33"
+                        },
+                        {
+                            "start_time": "16:00",
+                            "end_time": "18:33"
+                        },
+                        {
+                            "start_time": "17:00",
+                            "end_time": "19:33"
+                        },
+                        {
+                            "start_time": "18:00",
+                            "end_time": "20:33"
+                        },
+                        {
+                            "start_time": "20:00",
+                            "end_time": "22:33"
+                        },
+                        {
+                            "start_time": "21:00",
+                            "end_time": "23:33"
+                        }
+                    ]
+                },
+                "3D": {
+                    "film_id": 263871,
+                    "film_name": "Jurassic World: Fallen Kingdom 3D",
+                    "times": [
+                        {
+                            "start_time": "14:00",
+                            "end_time": "16:33"
+                        },
+                        {
+                            "start_time": "19:00",
+                            "end_time": "21:33"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "cinema_id": 8977,
+            "cinema_name": "Cineworld Cinema - Ilford",
+            "distance": 4.0660059617298,
+            "logo_url": "https://d2z9fe5yu2p0av.cloudfront.net/chainlogos/uk/UK-868-sq.jpg",
+            "showings": {
+                "Standard": {
+                    "film_id": 214486,
+                    "film_name": "Jurassic World: Fallen Kingdom",
+                    "times": [
+                        {
+                            "start_time": "11:45",
+                            "end_time": "14:18"
+                        },
+                        {
+                            "start_time": "13:15",
+                            "end_time": "15:48"
+                        },
+                        {
+                            "start_time": "14:45",
+                            "end_time": "17:18"
+                        },
+                        {
+                            "start_time": "17:45",
+                            "end_time": "20:18"
+                        },
+                        {
+                            "start_time": "20:45",
+                            "end_time": "23:18"
+                        }
+                    ]
+                },
+                "3D": {
+                    "film_id": 263871,
+                    "film_name": "Jurassic World: Fallen Kingdom 3D",
+                    "times": [
+                        {
+                            "start_time": "16:15",
+                            "end_time": "18:48"
+                        },
+                        {
+                            "start_time": "19:15",
+                            "end_time": "21:48"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "cinema_id": 9354,
+            "cinema_name": "Vue Cinemas - Romford",
+            "distance": 4.9383303334383,
+            "logo_url": "https://d2z9fe5yu2p0av.cloudfront.net/chainlogos/uk/UK-712-sq.jpg",
+            "showings": {
+                "Standard": {
+                    "film_id": 214486,
+                    "film_name": "Jurassic World: Fallen Kingdom",
+                    "times": [
+                        {
+                            "start_time": "09:45",
+                            "end_time": "12:18"
+                        },
+                        {
+                            "start_time": "11:00",
+                            "end_time": "13:33"
+                        },
+                        {
+                            "start_time": "12:25",
+                            "end_time": "14:58"
+                        },
+                        {
+                            "start_time": "14:00",
+                            "end_time": "16:33"
+                        },
+                        {
+                            "start_time": "15:25",
+                            "end_time": "17:58"
+                        },
+                        {
+                            "start_time": "16:20",
+                            "end_time": "18:53"
+                        },
+                        {
+                            "start_time": "17:05",
+                            "end_time": "19:38"
+                        },
+                        {
+                            "start_time": "18:30",
+                            "end_time": "21:03"
+                        },
+                        {
+                            "start_time": "20:00",
+                            "end_time": "22:33"
+                        },
+                        {
+                            "start_time": "20:40",
+                            "end_time": "23:13"
+                        },
+                        {
+                            "start_time": "22:00",
+                            "end_time": "00:33"
+                        },
+                        {
+                            "start_time": "22:55",
+                            "end_time": "01:28"
+                        }
+                    ]
+                },
+                "3D": {
+                    "film_id": 263871,
+                    "film_name": "Jurassic World: Fallen Kingdom 3D",
+                    "times": [
+                        {
+                            "start_time": "11:40",
+                            "end_time": "14:13"
+                        },
+                        {
+                            "start_time": "13:15",
+                            "end_time": "15:48"
+                        },
+                        {
+                            "start_time": "14:45",
+                            "end_time": "17:18"
+                        },
+                        {
+                            "start_time": "17:45",
+                            "end_time": "20:18"
+                        },
+                        {
+                            "start_time": "19:15",
+                            "end_time": "21:48"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "cinema_id": 8880,
+            "cinema_name": "ODEON Greenwich",
+            "distance": 5.2430814293721,
+            "logo_url": "https://d2z9fe5yu2p0av.cloudfront.net/chainlogos/uk/UK-614-sq.jpg",
+            "showings": {
+                "Standard": {
+                    "film_id": 214486,
+                    "film_name": "Jurassic World: Fallen Kingdom",
+                    "times": [
+                        {
+                            "start_time": "10:30",
+                            "end_time": "13:03"
+                        },
+                        {
+                            "start_time": "11:00",
+                            "end_time": "13:33"
+                        },
+                        {
+                            "start_time": "12:00",
+                            "end_time": "14:33"
+                        },
+                        {
+                            "start_time": "13:15",
+                            "end_time": "15:48"
+                        },
+                        {
+                            "start_time": "13:30",
+                            "end_time": "16:03"
+                        },
+                        {
+                            "start_time": "14:00",
+                            "end_time": "16:33"
+                        },
+                        {
+                            "start_time": "15:00",
+                            "end_time": "17:33"
+                        },
+                        {
+                            "start_time": "16:15",
+                            "end_time": "18:48"
+                        },
+                        {
+                            "start_time": "16:30",
+                            "end_time": "19:03"
+                        },
+                        {
+                            "start_time": "17:00",
+                            "end_time": "19:33"
+                        },
+                        {
+                            "start_time": "18:00",
+                            "end_time": "20:33"
+                        },
+                        {
+                            "start_time": "19:15",
+                            "end_time": "21:48"
+                        },
+                        {
+                            "start_time": "19:30",
+                            "end_time": "22:03"
+                        },
+                        {
+                            "start_time": "20:00",
+                            "end_time": "22:33"
+                        },
+                        {
+                            "start_time": "21:00",
+                            "end_time": "23:33"
+                        }
+                    ]
+                },
+                "IMAX3D": {
+                    "film_id": 270874,
+                    "film_name": "Jurassic World: Fallen Kingdom IMAX 3D",
+                    "times": [
+                        {
+                            "start_time": "11:30",
+                            "end_time": "14:03"
+                        },
+                        {
+                            "start_time": "14:30",
+                            "end_time": "17:03"
+                        },
+                        {
+                            "start_time": "17:30",
+                            "end_time": "20:03"
+                        },
+                        {
+                            "start_time": "20:30",
+                            "end_time": "23:03"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "cinema_id": 10636,
+            "cinema_name": "Cineworld Cinema - Greenwich",
+            "distance": 5.43134060748,
+            "logo_url": "https://d2z9fe5yu2p0av.cloudfront.net/chainlogos/uk/UK-868-sq.jpg",
+            "showings": {
+                "Standard": {
+                    "film_id": 214486,
+                    "film_name": "Jurassic World: Fallen Kingdom",
+                    "times": [
+                        {
+                            "start_time": "10:30",
+                            "end_time": "13:03"
+                        },
+                        {
+                            "start_time": "11:40",
+                            "end_time": "14:13"
+                        },
+                        {
+                            "start_time": "12:10",
+                            "end_time": "14:43"
+                        },
+                        {
+                            "start_time": "13:00",
+                            "end_time": "15:33"
+                        },
+                        {
+                            "start_time": "14:40",
+                            "end_time": "17:13"
+                        },
+                        {
+                            "start_time": "15:10",
+                            "end_time": "17:43"
+                        },
+                        {
+                            "start_time": "16:00",
+                            "end_time": "18:33"
+                        },
+                        {
+                            "start_time": "17:40",
+                            "end_time": "20:13"
+                        },
+                        {
+                            "start_time": "18:10",
+                            "end_time": "20:43"
+                        },
+                        {
+                            "start_time": "19:00",
+                            "end_time": "21:33"
+                        },
+                        {
+                            "start_time": "19:40",
+                            "end_time": "22:13"
+                        },
+                        {
+                            "start_time": "20:40",
+                            "end_time": "23:13"
+                        },
+                        {
+                            "start_time": "21:10",
+                            "end_time": "23:43"
+                        }
+                    ]
+                },
+                "3D": {
+                    "film_id": 263871,
+                    "film_name": "Jurassic World: Fallen Kingdom 3D",
+                    "times": [
+                        {
+                            "start_time": "14:10",
+                            "end_time": "16:43"
+                        },
+                        {
+                            "start_time": "17:10",
+                            "end_time": "19:43"
+                        },
+                        {
+                            "start_time": "20:10",
+                            "end_time": "22:43"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "cinema_id": 9402,
+            "cinema_name": "Stratford Picturehouse - East London",
+            "distance": 5.9862395500701,
+            "logo_url": "https://d2z9fe5yu2p0av.cloudfront.net/chainlogos/uk/UK-1100-sq.jpg",
+            "showings": {
+                "Standard": {
+                    "film_id": 214486,
+                    "film_name": "Jurassic World: Fallen Kingdom",
+                    "times": [
+                        {
+                            "start_time": "13:30",
+                            "end_time": "16:03"
+                        },
+                        {
+                            "start_time": "15:00",
+                            "end_time": "17:33"
+                        },
+                        {
+                            "start_time": "16:30",
+                            "end_time": "19:03"
+                        },
+                        {
+                            "start_time": "18:00",
+                            "end_time": "20:33"
+                        },
+                        {
+                            "start_time": "19:30",
+                            "end_time": "22:03"
+                        },
+                        {
+                            "start_time": "20:50",
+                            "end_time": "23:23"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "cinema_id": 29287,
+            "cinema_name": "Vue Cinemas - Westfield Stratford City",
+            "distance": 6.3319883436322,
+            "logo_url": "https://d2z9fe5yu2p0av.cloudfront.net/chainlogos/uk/UK-712-sq.jpg",
+            "showings": {
+                "Standard": {
+                    "film_id": 214486,
+                    "film_name": "Jurassic World: Fallen Kingdom",
+                    "times": [
+                        {
+                            "start_time": "09:20",
+                            "end_time": "11:53"
+                        },
+                        {
+                            "start_time": "11:05",
+                            "end_time": "13:38"
+                        },
+                        {
+                            "start_time": "12:20",
+                            "end_time": "14:53"
+                        },
+                        {
+                            "start_time": "14:00",
+                            "end_time": "16:33"
+                        },
+                        {
+                            "start_time": "15:20",
+                            "end_time": "17:53"
+                        },
+                        {
+                            "start_time": "17:05",
+                            "end_time": "19:38"
+                        },
+                        {
+                            "start_time": "18:20",
+                            "end_time": "20:53"
+                        },
+                        {
+                            "start_time": "20:00",
+                            "end_time": "22:33"
+                        },
+                        {
+                            "start_time": "21:15",
+                            "end_time": "23:48"
+                        },
+                        {
+                            "start_time": "23:00",
+                            "end_time": "01:33"
+                        },
+                        {
+                            "start_time": "00:05",
+                            "end_time": "02:38"
+                        }
+                    ]
+                },
+                "3D": {
+                    "film_id": 263871,
+                    "film_name": "Jurassic World: Fallen Kingdom 3D",
+                    "times": [
+                        {
+                            "start_time": "12:50",
+                            "end_time": "15:23"
+                        },
+                        {
+                            "start_time": "16:20",
+                            "end_time": "18:53"
+                        },
+                        {
+                            "start_time": "19:10",
+                            "end_time": "21:43"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "cinema_id": 41087,
+            "cinema_name": "Everyman Canary Wharf",
+            "distance": 6.384949253241,
+            "logo_url": "https://d2z9fe5yu2p0av.cloudfront.net/chainlogos/uk/UK-1077-sq.jpg",
+            "showings": {
+                "Standard": {
+                    "film_id": 214486,
+                    "film_name": "Jurassic World: Fallen Kingdom",
+                    "times": [
+                        {
+                            "start_time": "10:30",
+                            "end_time": "13:03"
+                        },
+                        {
+                            "start_time": "13:30",
+                            "end_time": "16:03"
+                        },
+                        {
+                            "start_time": "16:30",
+                            "end_time": "19:03"
+                        },
+                        {
+                            "start_time": "19:30",
+                            "end_time": "22:03"
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "count": 10,
+    "status": {
+        "state": "OK",
+        "code": 1,
+        "method": "filmShowTimes",
+        "message": null,
+        "request_method": "GET",
+        "version": "MONAv102",
+        "auth_type": "d"
+    }
+}

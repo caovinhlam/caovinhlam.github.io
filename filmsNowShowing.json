@@ -1,0 +1,314 @@
+{
+    "films": [
+        {
+            "film_id": 214486,
+            "film_name": "Jurassic World: Fallen Kingdom",
+            "release_date": "2018-06-06",
+            "age_rating": "12A ",
+            "age_rating_image": "https://d2z9fe5yu2p0av.cloudfront.net/age_rating_logos/uk/12a.png",
+            "film_trailer": "https://dzm1iom8kpoas.cloudfront.net/214486_high_V3.mp4",
+            "synopsis_long": "It's been three years since theme park and luxury resort Jurassic World was destroyed by dinosaurs out of containment.  Isla Nublar now sits abandoned by humans while the surviving dinosaurs fend for themselves in the jungles.\n\nWhen the island's dormant volcano begins roaring to life, Owen (Chris Pratt) and Claire (Bryce Dallas Howard) mount a campaign to rescue the remaining dinosaurs from this extinction-level event.  Owen is driven to find Blue, his lead raptor who's still missing in the wild, and Claire has grown a respect for these creatures she now makes her mission.  Arriving on the unstable island as lava begins raining down, their expedition uncovers a conspiracy that could return our entire planet to a perilous order not seen since prehistoric times.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "US",
+                        "medium": {
+                            "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/214486/214486h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "2": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/214486/214486h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 242900,
+            "film_name": "Deadpool 2",
+            "release_date": "2018-05-15",
+            "age_rating": "15 ",
+            "age_rating_image": "https://d2z9fe5yu2p0av.cloudfront.net/age_rating_logos/uk/15.png",
+            "film_trailer": "https://dzm1iom8kpoas.cloudfront.net/242900_high_V2.mp4",
+            "synopsis_long": "After surviving a near fatal bovine attack, a disfigured cafeteria chef (Wade Wilson) struggles to fulfill his dream of becoming Mayberry's hottest bartender while also learning to cope with his lost sense of taste. Searching to regain his spice for life, as well as a flux capacitor, Wade must battle ninjas, the yakuza, and a pack of sexually aggressive canines, as he journeys around the world to discover the importance of family, friendship, and flavor - finding a new taste for adventure and earning the coveted coffee mug title of World's Best Lover.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "US",
+                        "medium": {
+                            "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/242900/242900h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "2": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/242900/242900h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 213940,
+            "film_name": "Solo: A Star Wars Story",
+            "release_date": "2018-05-24",
+            "age_rating": "12A ",
+            "age_rating_image": "https://d2z9fe5yu2p0av.cloudfront.net/age_rating_logos/uk/12a.png",
+            "film_trailer": "https://dzm1iom8kpoas.cloudfront.net/213940_high_V3.mp4",
+            "synopsis_long": "Board the Millennium Falcon and journey to a galaxy far, far away in Solo: A Star Wars Story, an all-new adventure with the most beloved scoundrel in the galaxy. Through a series of daring escapades deep within a dark and dangerous criminal underworld, Han Solo meets his mighty future copilot Chewbacca and encounters the notorious gambler Lando Calrissian, in a journey that will set the course of one of the Star Wars saga's most unlikely heroes.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "US",
+                        "medium": {
+                            "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/213940/213940h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "2": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/213940/213940h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 265510,
+            "film_name": "Book Club",
+            "release_date": "2018-06-01",
+            "age_rating": "18 ",
+            "age_rating_image": "https://d2z9fe5yu2p0av.cloudfront.net/age_rating_logos/uk/18.png",
+            "film_trailer": "https://dzm1iom8kpoas.cloudfront.net/265510_high_V2.mp4",
+            "synopsis_long": "Diane (Diane Keaton) is recently widowed after 40 years of marriage. Vivian (Jane Fonda) enjoys her men with no strings attached. Sharon (Candice Bergen) is still working through a decades-old divorce. Carol's (Mary Steenburgen) marriage is in a slump after 35 years. \n\nFour lifelong friends' lives are turned upside down to hilarious ends when their book club tackles the infamous Fifty Shades of Grey. From discovering new romance to rekindling old flames, they inspire each other to make their next chapter the best chapter.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "US",
+                        "medium": {
+                            "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/265510/265510h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "2": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/265510/265510h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 198438,
+            "film_name": "Avengers: Infinity War",
+            "release_date": "2018-04-26",
+            "age_rating": "12A ",
+            "age_rating_image": "https://d2z9fe5yu2p0av.cloudfront.net/age_rating_logos/uk/12a.png",
+            "film_trailer": "https://dzm1iom8kpoas.cloudfront.net/198438_high_V2.mp4",
+            "synopsis_long": "An unprecedented cinematic journey ten years in the making and spanning the entire Marvel Cinematic Universe, Marvel Studios'  \"Avengers: Infinity War\" brings to the screen the ultimate, deadliest showdown of all time. The Avengers and their Super Hero allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "US",
+                        "medium": {
+                            "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/198438/198438h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "2": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/198438/198438h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 222402,
+            "film_name": "Sherlock Gnomes",
+            "release_date": "2018-05-11",
+            "age_rating": "U ",
+            "age_rating_image": "https://d2z9fe5yu2p0av.cloudfront.net/age_rating_logos/uk/u.png",
+            "film_trailer": "https://dzm1iom8kpoas.cloudfront.net/222402_high.mp4",
+            "synopsis_long": "When Gnomeo and Juliet first arrive in the city with their friends and family, their biggest concern is getting their new garden ready for spring. However, they soon discover that someone is kidnapping garden gnomes all over London. When Gnomeo and Juliet return home to find that everyone in their garden is missing  there's only one gnome to call SHERLOCK GNOMES. The famous detective and sworn protector of London's garden gnomes arrives with his sidekick Watson to investigate the case. The mystery will lead our gnomes on a rollicking adventure where they will meet all new ornaments and explore an undiscovered side of the city.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "US",
+                        "medium": {
+                            "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/222402/222402h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "2": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/222402/222402h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 230833,
+            "film_name": "Show Dogs",
+            "release_date": "2018-05-25",
+            "age_rating": "PG ",
+            "age_rating_image": "https://d2z9fe5yu2p0av.cloudfront.net/age_rating_logos/uk/pg.png",
+            "film_trailer": "https://dzm1iom8kpoas.cloudfront.net/230833_high.mp4",
+            "synopsis_long": "Starring Will Arnett, Chris \"Ludacris\" Bridges, Natasha Lyonne, Jordin Sparks, Gabriel Iglesias, Shaquille O'Neal, Alan Cumming, and Stanley Tucci, SHOWDOGS is a family comedy about the unlikely pairing of a human detective (Arnett) and his canine partner (voice of Chris \"Ludacris\" Bridges), who has to go undercover at the world's most exclusive dog show to solve his biggest case yet.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "US",
+                        "medium": {
+                            "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/230833/230833h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 251736,
+            "film_name": "I Feel Pretty",
+            "release_date": "2018-05-04",
+            "age_rating": "12A ",
+            "age_rating_image": "https://d2z9fe5yu2p0av.cloudfront.net/age_rating_logos/uk/12a.png",
+            "film_trailer": "https://dzm1iom8kpoas.cloudfront.net/251736_high.mp4",
+            "synopsis_long": "In I FEEL PRETTY a woman who struggles with feelings of deep insecurity and low self-esteem, that hold her back everyday, wakes from a brutal fall in an exercise class believing she is suddenly a supermodel. With this newfound confidence she is empowered to live her life fearlessly and flawlessly, but what will happen when she realizes her appearance never changed?",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "US",
+                        "medium": {
+                            "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/251736/251736h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "2": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/251736/251736h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 267519,
+            "film_name": "McQueen",
+            "release_date": "2018-06-08",
+            "age_rating": "15 ",
+            "age_rating_image": "https://d2z9fe5yu2p0av.cloudfront.net/age_rating_logos/uk/15.png",
+            "film_trailer": null,
+            "synopsis_long": "A personal look at the extraordinary life, career and artistry of Alexander McQueen. Through exclusive interviews with his closest friends and family, recovered archives, exquisite visuals and music, McQueen is an authentic celebration and thrilling portrait of an inspired yet tortured fashion visionary.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "US",
+                        "medium": {
+                            "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/267519/267519h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 235272,
+            "film_name": "Life of the Party",
+            "release_date": "2018-05-10",
+            "age_rating": "12A ",
+            "age_rating_image": "https://d2z9fe5yu2p0av.cloudfront.net/age_rating_logos/uk/12a.png",
+            "film_trailer": "https://dzm1iom8kpoas.cloudfront.net/235272_high.mp4",
+            "synopsis_long": "When her husband suddenly dumps her, longtime dedicated housewife Deanna (McCarthy) turns regret into re-set by going back to college - landing in the same class and school as her daughter, who's not entirely sold on the idea.  Plunging headlong into the campus experience, the increasingly outspoken Deanna - now Dee Rock - embraces freedom, fun and frat boys on her own terms, finding her true self in a senior year no one ever expected.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "US",
+                        "medium": {
+                            "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/235272/235272h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "2": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/235272/235272h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        }
+    ],
+    "count": 10,
+    "status": {
+        "state": "OK",
+        "code": 1,
+        "method": "filmsNowShowing",
+        "message": null,
+        "request_method": "GET",
+        "version": "MONAv102",
+        "auth_type": "d"
+    }
+}

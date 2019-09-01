@@ -1,0 +1,278 @@
+{
+    "film": {
+        "film_id": 198438,
+        "film_name": "Avengers: Infinity War",
+        "version_type": "Standard",
+        "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/198438/198438h2.jpg",
+        "film_image_height": 200,
+        "film_image_width": 300
+    },
+    "cinemas": [
+        {
+            "cinema_id": 8926,
+            "cinema_name": "Vue Cinemas - Dagenham",
+            "distance": 1.5346436514578,
+            "logo_url": "https://d2z9fe5yu2p0av.cloudfront.net/chainlogos/uk/UK-712-sq.jpg",
+            "showings": {
+                "Standard": {
+                    "film_id": 198438,
+                    "film_name": "Avengers: Infinity War",
+                    "times": [
+                        {
+                            "start_time": "15:55",
+                            "end_time": "18:56"
+                        },
+                        {
+                            "start_time": "19:20",
+                            "end_time": "22:21"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "cinema_id": 8507,
+            "cinema_name": "Showcase Newham",
+            "distance": 2.3912532294299,
+            "logo_url": "https://d2z9fe5yu2p0av.cloudfront.net/chainlogos/uk/UK-577-sq.jpg",
+            "showings": {
+                "Standard": {
+                    "film_id": 198438,
+                    "film_name": "Avengers: Infinity War",
+                    "times": [
+                        {
+                            "start_time": "12:15",
+                            "end_time": "15:16"
+                        },
+                        {
+                            "start_time": "15:45",
+                            "end_time": "18:46"
+                        },
+                        {
+                            "start_time": "19:30",
+                            "end_time": "22:31"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "cinema_id": 8964,
+            "cinema_name": "Cineworld Cinema - Bexleyheath",
+            "distance": 3.8464576159988,
+            "logo_url": "https://d2z9fe5yu2p0av.cloudfront.net/chainlogos/uk/UK-868-sq.jpg",
+            "showings": {
+                "Standard": {
+                    "film_id": 198438,
+                    "film_name": "Avengers: Infinity War",
+                    "times": [
+                        {
+                            "start_time": "11:20",
+                            "end_time": "14:21"
+                        },
+                        {
+                            "start_time": "17:10",
+                            "end_time": "20:11"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "cinema_id": 8977,
+            "cinema_name": "Cineworld Cinema - Ilford",
+            "distance": 4.0660059617298,
+            "logo_url": "https://d2z9fe5yu2p0av.cloudfront.net/chainlogos/uk/UK-868-sq.jpg",
+            "showings": {
+                "Standard": {
+                    "film_id": 198438,
+                    "film_name": "Avengers: Infinity War",
+                    "times": [
+                        {
+                            "start_time": "10:10",
+                            "end_time": "13:11"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "cinema_id": 9354,
+            "cinema_name": "Vue Cinemas - Romford",
+            "distance": 4.9383303334383,
+            "logo_url": "https://d2z9fe5yu2p0av.cloudfront.net/chainlogos/uk/UK-712-sq.jpg",
+            "showings": {
+                "Standard": {
+                    "film_id": 198438,
+                    "film_name": "Avengers: Infinity War",
+                    "times": [
+                        {
+                            "start_time": "10:30",
+                            "end_time": "13:31"
+                        },
+                        {
+                            "start_time": "13:40",
+                            "end_time": "16:41"
+                        },
+                        {
+                            "start_time": "16:00",
+                            "end_time": "19:01"
+                        },
+                        {
+                            "start_time": "18:45",
+                            "end_time": "21:46"
+                        },
+                        {
+                            "start_time": "21:15",
+                            "end_time": "00:16"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "cinema_id": 8880,
+            "cinema_name": "ODEON Greenwich",
+            "distance": 5.2430814293721,
+            "logo_url": "https://d2z9fe5yu2p0av.cloudfront.net/chainlogos/uk/UK-614-sq.jpg",
+            "showings": {
+                "Standard": {
+                    "film_id": 198438,
+                    "film_name": "Avengers: Infinity War",
+                    "times": [
+                        {
+                            "start_time": "13:10",
+                            "end_time": "16:11"
+                        },
+                        {
+                            "start_time": "16:30",
+                            "end_time": "19:31"
+                        },
+                        {
+                            "start_time": "19:45",
+                            "end_time": "22:46"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "cinema_id": 10636,
+            "cinema_name": "Cineworld Cinema - Greenwich",
+            "distance": 5.43134060748,
+            "logo_url": "https://d2z9fe5yu2p0av.cloudfront.net/chainlogos/uk/UK-868-sq.jpg",
+            "showings": {
+                "Standard": {
+                    "film_id": 198438,
+                    "film_name": "Avengers: Infinity War",
+                    "times": [
+                        {
+                            "start_time": "10:50",
+                            "end_time": "13:51"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "cinema_id": 29287,
+            "cinema_name": "Vue Cinemas - Westfield Stratford City",
+            "distance": 6.3319883436322,
+            "logo_url": "https://d2z9fe5yu2p0av.cloudfront.net/chainlogos/uk/UK-712-sq.jpg",
+            "showings": {
+                "Standard": {
+                    "film_id": 198438,
+                    "film_name": "Avengers: Infinity War",
+                    "times": [
+                        {
+                            "start_time": "09:40",
+                            "end_time": "12:41"
+                        },
+                        {
+                            "start_time": "12:05",
+                            "end_time": "15:06"
+                        },
+                        {
+                            "start_time": "14:20",
+                            "end_time": "17:21"
+                        },
+                        {
+                            "start_time": "16:00",
+                            "end_time": "19:01"
+                        },
+                        {
+                            "start_time": "17:35",
+                            "end_time": "20:36"
+                        },
+                        {
+                            "start_time": "19:15",
+                            "end_time": "22:16"
+                        },
+                        {
+                            "start_time": "20:40",
+                            "end_time": "23:41"
+                        },
+                        {
+                            "start_time": "23:20",
+                            "end_time": "02:21"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "cinema_id": 9401,
+            "cinema_name": "Cineworld Cinema - West India Quay",
+            "distance": 6.5598491287464,
+            "logo_url": "https://d2z9fe5yu2p0av.cloudfront.net/chainlogos/uk/UK-868-sq.jpg",
+            "showings": {
+                "Standard": {
+                    "film_id": 198438,
+                    "film_name": "Avengers: Infinity War",
+                    "times": [
+                        {
+                            "start_time": "11:00",
+                            "end_time": "14:01"
+                        },
+                        {
+                            "start_time": "13:50",
+                            "end_time": "16:51"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "cinema_id": 8943,
+            "cinema_name": "Vue Cinemas - Thurrock",
+            "distance": 6.6766323449691,
+            "logo_url": "https://d2z9fe5yu2p0av.cloudfront.net/chainlogos/uk/UK-712-sq.jpg",
+            "showings": {
+                "Standard": {
+                    "film_id": 198438,
+                    "film_name": "Avengers: Infinity War",
+                    "times": [
+                        {
+                            "start_time": "10:15",
+                            "end_time": "13:16"
+                        },
+                        {
+                            "start_time": "20:50",
+                            "end_time": "23:51"
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "count": 10,
+    "status": {
+        "state": "OK",
+        "code": 1,
+        "method": "filmShowTimes",
+        "message": null,
+        "request_method": "GET",
+        "version": "MONAv102",
+        "auth_type": "d"
+    }
+}

@@ -1,0 +1,407 @@
+{
+    "film_id": 235272,
+    "film_name": "Life of the Party",
+    "version_type": "Standard",
+    "images": {
+        "poster": {
+            "1": {
+                "image_orientation": "portrait",
+                "region": "US",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/235272/235272l1.jpg",
+                    "width": 333,
+                    "height": 500
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/235272/235272h1.jpg",
+                    "width": 200,
+                    "height": 300
+                }
+            }
+        },
+        "still": {
+            "2": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/235272/235272l2.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/235272/235272h2.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            },
+            "3": {
+                "image_orientation": "landscape",
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/235272/235272h3.jpg",
+                    "width": 300,
+                    "height": 200
+                },
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/235272/235272l3.jpg",
+                    "width": 500,
+                    "height": 333
+                }
+            },
+            "4": {
+                "image_orientation": "landscape",
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/235272/235272h4.jpg",
+                    "width": 300,
+                    "height": 200
+                },
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/235272/235272l4.jpg",
+                    "width": 500,
+                    "height": 333
+                }
+            },
+            "5": {
+                "image_orientation": "landscape",
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/235272/235272h5.jpg",
+                    "width": 300,
+                    "height": 200
+                },
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/235272/235272l5.jpg",
+                    "width": 500,
+                    "height": 333
+                }
+            },
+            "6": {
+                "image_orientation": "landscape",
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/235272/235272h6.jpg",
+                    "width": 300,
+                    "height": 200
+                },
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/235272/235272l6.jpg",
+                    "width": 500,
+                    "height": 333
+                }
+            },
+            "7": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/235272/235272l7.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/235272/235272h7.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            },
+            "8": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/235272/235272l8.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/235272/235272h8.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            },
+            "9": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/235272/235272l9.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/235272/235272h9.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            },
+            "a": {
+                "image_orientation": "landscape",
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/235272/235272ha.jpg",
+                    "width": 300,
+                    "height": 200
+                },
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/235272/235272la.jpg",
+                    "width": 500,
+                    "height": 333
+                }
+            },
+            "b": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/235272/235272lb.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/235272/235272hb.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            },
+            "c": {
+                "image_orientation": "landscape",
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/235272/235272hc.jpg",
+                    "width": 300,
+                    "height": 200
+                },
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/235272/235272lc.jpg",
+                    "width": 500,
+                    "height": 333
+                }
+            },
+            "d": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/235272/235272ld.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/235272/235272hd.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            },
+            "e": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/235272/235272le.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/235272/235272he.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            },
+            "f": {
+                "image_orientation": "landscape",
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/235272/235272hf.jpg",
+                    "width": 300,
+                    "height": 200
+                },
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/235272/235272lf.jpg",
+                    "width": 500,
+                    "height": 333
+                }
+            },
+            "g": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/235272/235272lg.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/235272/235272hg.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            },
+            "h": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/235272/235272lh.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/235272/235272hh.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            },
+            "i": {
+                "image_orientation": "landscape",
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/235272/235272hi.jpg",
+                    "width": 300,
+                    "height": 200
+                },
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/235272/235272li.jpg",
+                    "width": 500,
+                    "height": 333
+                }
+            },
+            "j": {
+                "image_orientation": "landscape",
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/235272/235272hj.jpg",
+                    "width": 300,
+                    "height": 200
+                },
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/235272/235272lj.jpg",
+                    "width": 500,
+                    "height": 333
+                }
+            },
+            "k": {
+                "image_orientation": "landscape",
+                "large": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/235272/235272lk.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                "medium": {
+                    "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/235272/235272hk.jpg",
+                    "width": 300,
+                    "height": 200
+                }
+            }
+        }
+    },
+    "synopsis_long": "When her husband suddenly dumps her, longtime dedicated housewife Deanna (McCarthy) turns regret into re-set by going back to college - landing in the same class and school as her daughter, who's not entirely sold on the idea.  Plunging headlong into the campus experience, the increasingly outspoken Deanna - now Dee Rock - embraces freedom, fun and frat boys on her own terms, finding her true self in a senior year no one ever expected.",
+    "distributor_id": 122,
+    "distributor": "Warner Bros. UK",
+    "release_date": "2018-05-10",
+    "age_rating": "12A ",
+    "age_advisory": "moderate sex references, drug misuse, language, comic violence",
+    "duration_mins": 105,
+    "review_stars": 1,
+    "review_txt": "Life of the Party is the third collaboration between actress Melissa McCarthy and her director husband, Ben Falcone. Next to this, Tammy and The Boss seem like Hamlet and King Lear. After suffering through the abomination named Identity Thief, I felt for sure I had seen the worst McCarthy has to offer. I was wrong.\n\nThe concept of an older person becoming immersed in aspects of the collegiate lifestyle isn't a new one. We've seen it done by Rodney Dangerfield, Will Ferrell, and the duo of Seth Rogen and Rose Byrne (among others). The kind of raunchy hijinks that ensue would seem to be right up McCarthy's alley. Therefore, the PG-13 rating raises alarm bells because, although films are always pushing against the rating's envelope, one typically doesn't equate \"raunchy hijinks\" with \"teen-friendly.\" Indeed, this is not only the least funny movie in which McCarthy has appeared but the tamest and most toothless. \n\nThe setup is as stale as the narrative that germinates from it. Fortysomething Deanna (McCarthy) is dumped by her husband, Dan (Matt Walsh), when he decides to \"upgrade\" to a statuesque blond real estate agent (Julie Bowen). Suddenly homeless and unsure where to go with her life, Deanna decides to return to Decatur University and finish out the last year of the archeology degree she suspended when she became pregnant with Maddie (Molly Gordon). One complication: Maddie is currently a senior at Decatur and not thrilled with the idea of sharing her school experiences with her mom. \n\nDeanna isn't so crass as to try rooming with her daughter (who lives in a sorority house, anyway), but she becomes a frequent interloper. Fortunately, Maddie's friends adore her mom. One of them, Helen a.k.a. \"Coma Girl\" (Gillian Jacobs of the Netflix streaming series Love), decides to join Deanna in Archelogy 301. Meanwhile, Deanna finds herself enjoying the fringe benefits of college as much as the classes. She starts up a relationship with Jack (Luke Benward), a guy half her age, and develops a rivalry with a couple of Queen Bees. And, although she's a whiz in class (she appears to have only one), her fear of public speaking is her undoing for the oral presentation. Meanwhile, she can't quite get past having been dumped by Dan and this subplot reaches its head at the wedding of her ex- and his new wife. \n\nLife of the Party lacks a discernible plot - it's 105 minutes of loosely connected sketches showing various aspects of what McCarthy and Falcone believe to be the amusing exploits of a single mom exploring the byways of higher education. It has all the freshness of a truly awful remake even though it claims to be original. There are a few vague stabs at drama, but none ring true and, seemingly realizing this, the filmmakers don't pursue them with vigor. The real disappointment with Life of the Party is its complete lack of humor and energy. To begin with, the number of attempted jokes is surprisingly low. The film plods along for long stretches without trying to be funny. Then, when it makes an attempt, the gag falls flat. It seems nearly incomprehensible that I could make my way through an entire Melissa McCarthy film and not even smile. If any movie intends to make viewers laugh and doesn't elicit even a faint chuckle, it has failed. That describes Life of the Party. \n\nThere are other things I could point out like Falcone's banal directorial style, the low-energy ambience that encourages the viewer to doze off, and the phone-it-in performances by everyone from McCarthy to the bit players. No one seems invested in this movie nor does anyone care whether it works on any level. The movie is too dispiriting to be painful and too pointless to deserve the effort necessary for an additional word of opprobrium. \n\n© 2018 James Berardinelli",
+    "trailers": {
+        "film_id": 235272,
+        "film_name": "Life of the Party",
+        "trailers": {
+            "high": [
+                {
+                    "film_trailer": "https://dzm1iom8kpoas.cloudfront.net/235272_high.mp4",
+                    "trailer_image": "https://d3ltpb4h29tx4j.cloudfront.net/235272/235272h3.jpg",
+                    "version": 1,
+                    "quality": "high",
+                    "region": "US"
+                }
+            ],
+            "med": [
+                {
+                    "film_trailer": "https://dzm1iom8kpoas.cloudfront.net/235272_med.mp4",
+                    "trailer_image": "https://d3ltpb4h29tx4j.cloudfront.net/235272/235272h3.jpg",
+                    "version": 1,
+                    "quality": "med",
+                    "region": "US"
+                }
+            ]
+        }
+    },
+    "genres": [
+        {
+            "genre_id": 3,
+            "genre_name": "Comedy"
+        }
+    ],
+    "cast": [
+        {
+            "cast_id": 499,
+            "cast_name": "Melissa McCarthy"
+        },
+        {
+            "cast_id": 957,
+            "cast_name": "Gillian Jacobs"
+        },
+        {
+            "cast_id": 178,
+            "cast_name": "Maya Rudolph"
+        },
+        {
+            "cast_id": 34500,
+            "cast_name": "Julie Bowen"
+        },
+        {
+            "cast_id": 8288,
+            "cast_name": "Matt Walsh"
+        },
+        {
+            "cast_id": 34501,
+            "cast_name": "Molly Gordon"
+        },
+        {
+            "cast_id": 2167,
+            "cast_name": "Stephen Root"
+        },
+        {
+            "cast_id": 1057,
+            "cast_name": "Jacki Weaver"
+        }
+    ],
+    "directors": [
+        {
+            "director_id": 1219,
+            "director_name": "Ben Falcone"
+        }
+    ],
+    "producers": [
+        {
+            "producer_id": 7985,
+            "producer_name": "Ben Falcone"
+        },
+        {
+            "producer_id": 7592,
+            "producer_name": "Chris Henchy"
+        }
+    ],
+    "writers": [
+        {
+            "writer_id": 1996,
+            "writer_name": "Ben Falcone"
+        },
+        {
+            "writer_id": 1997,
+            "writer_name": "Melissa McCarthy"
+        }
+    ],
+    "show_dates": [
+        {
+            "date": "2018-06-14"
+        },
+        {
+            "date": "2018-06-15"
+        },
+        {
+            "date": "2018-06-16"
+        },
+        {
+            "date": "2018-06-17"
+        },
+        {
+            "date": "2018-06-18"
+        },
+        {
+            "date": "2018-06-19"
+        },
+        {
+            "date": "2018-06-20"
+        },
+        {
+            "date": "2018-06-21"
+        }
+    ],
+    "alternate_versions": [],
+    "status": {
+        "state": "OK",
+        "code": 1,
+        "method": "filmDetails",
+        "message": null,
+        "request_method": "GET",
+        "version": "MONAv102",
+        "auth_type": "d"
+    }
+}

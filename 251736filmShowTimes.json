@@ -1,0 +1,234 @@
+{
+    "film": {
+        "film_id": 251736,
+        "film_name": "I Feel Pretty",
+        "version_type": "Standard",
+        "film_image": "https://d3ltpb4h29tx4j.cloudfront.net/251736/251736h2.jpg",
+        "film_image_height": 200,
+        "film_image_width": 300
+    },
+    "cinemas": [
+        {
+            "cinema_id": 9354,
+            "cinema_name": "Vue Cinemas - Romford",
+            "distance": 4.9383303334383,
+            "logo_url": "https://d2z9fe5yu2p0av.cloudfront.net/chainlogos/uk/UK-712-sq.jpg",
+            "showings": {
+                "Standard": {
+                    "film_id": 251736,
+                    "film_name": "I Feel Pretty",
+                    "times": [
+                        {
+                            "start_time": "13:00",
+                            "end_time": "15:15"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "cinema_id": 29287,
+            "cinema_name": "Vue Cinemas - Westfield Stratford City",
+            "distance": 6.3319883436322,
+            "logo_url": "https://d2z9fe5yu2p0av.cloudfront.net/chainlogos/uk/UK-712-sq.jpg",
+            "showings": {
+                "Standard": {
+                    "film_id": 251736,
+                    "film_name": "I Feel Pretty",
+                    "times": [
+                        {
+                            "start_time": "10:05",
+                            "end_time": "12:20"
+                        },
+                        {
+                            "start_time": "14:40",
+                            "end_time": "16:55"
+                        },
+                        {
+                            "start_time": "17:20",
+                            "end_time": "19:35"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "cinema_id": 8943,
+            "cinema_name": "Vue Cinemas - Thurrock",
+            "distance": 6.6766323449691,
+            "logo_url": "https://d2z9fe5yu2p0av.cloudfront.net/chainlogos/uk/UK-712-sq.jpg",
+            "showings": {
+                "Standard": {
+                    "film_id": 251736,
+                    "film_name": "I Feel Pretty",
+                    "times": [
+                        {
+                            "start_time": "20:25",
+                            "end_time": "22:40"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "cinema_id": 8487,
+            "cinema_name": "Showcase Cinema de Lux Bluewater",
+            "distance": 7.8805449020014,
+            "logo_url": "https://d2z9fe5yu2p0av.cloudfront.net/chainlogos/uk/UK-577-sq.jpg",
+            "showings": {
+                "Standard": {
+                    "film_id": 251736,
+                    "film_name": "I Feel Pretty",
+                    "times": [
+                        {
+                            "start_time": "10:20",
+                            "end_time": "12:35"
+                        },
+                        {
+                            "start_time": "19:15",
+                            "end_time": "21:30"
+                        },
+                        {
+                            "start_time": "21:55",
+                            "end_time": "00:10"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "cinema_id": 8923,
+            "cinema_name": "Vue Cinemas - West End",
+            "distance": 11.15839530824,
+            "logo_url": "https://d2z9fe5yu2p0av.cloudfront.net/chainlogos/uk/UK-712-sq.jpg",
+            "showings": {
+                "Standard": {
+                    "film_id": 251736,
+                    "film_name": "I Feel Pretty",
+                    "times": [
+                        {
+                            "start_time": "12:10",
+                            "end_time": "14:25"
+                        },
+                        {
+                            "start_time": "17:10",
+                            "end_time": "19:25"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "cinema_id": 8928,
+            "cinema_name": "Vue Cinemas - Finchley Road / 02 Centre",
+            "distance": 13.687399437081,
+            "logo_url": "https://d2z9fe5yu2p0av.cloudfront.net/chainlogos/uk/UK-712-sq.jpg",
+            "showings": {
+                "Standard": {
+                    "film_id": 251736,
+                    "film_name": "I Feel Pretty",
+                    "times": [
+                        {
+                            "start_time": "19:25",
+                            "end_time": "21:40"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "cinema_id": 8920,
+            "cinema_name": "Vue Cinemas - Fulham Broadway",
+            "distance": 14.11617525591,
+            "logo_url": "https://d2z9fe5yu2p0av.cloudfront.net/chainlogos/uk/UK-712-sq.jpg",
+            "showings": {
+                "Standard": {
+                    "film_id": 251736,
+                    "film_name": "I Feel Pretty",
+                    "times": [
+                        {
+                            "start_time": "13:45",
+                            "end_time": "16:00"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "cinema_id": 8927,
+            "cinema_name": "Vue Cinemas - North Finchley",
+            "distance": 14.547793231661,
+            "logo_url": "https://d2z9fe5yu2p0av.cloudfront.net/chainlogos/uk/UK-712-sq.jpg",
+            "showings": {
+                "Standard": {
+                    "film_id": 251736,
+                    "film_name": "I Feel Pretty",
+                    "times": [
+                        {
+                            "start_time": "18:40",
+                            "end_time": "20:55"
+                        },
+                        {
+                            "start_time": "23:15",
+                            "end_time": "01:30"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "cinema_id": 8922,
+            "cinema_name": "Vue Cinemas - Shepherds Bush",
+            "distance": 15.056853497397,
+            "logo_url": "https://d2z9fe5yu2p0av.cloudfront.net/chainlogos/uk/UK-712-sq.jpg",
+            "showings": {
+                "Standard": {
+                    "film_id": 251736,
+                    "film_name": "I Feel Pretty",
+                    "times": [
+                        {
+                            "start_time": "15:05",
+                            "end_time": "17:20"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "cinema_id": 23530,
+            "cinema_name": "Vue Cinemas - Westfield",
+            "distance": 15.104287455993,
+            "logo_url": "https://d2z9fe5yu2p0av.cloudfront.net/chainlogos/uk/UK-712-sq.jpg",
+            "showings": {
+                "Standard": {
+                    "film_id": 251736,
+                    "film_name": "I Feel Pretty",
+                    "times": [
+                        {
+                            "start_time": "10:00",
+                            "end_time": "12:15"
+                        },
+                        {
+                            "start_time": "12:25",
+                            "end_time": "14:40"
+                        },
+                        {
+                            "start_time": "22:15",
+                            "end_time": "00:30"
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "count": 10,
+    "status": {
+        "state": "OK",
+        "code": 1,
+        "method": "filmShowTimes",
+        "message": null,
+        "request_method": "GET",
+        "version": "MONAv102",
+        "auth_type": "d"
+    }
+}
